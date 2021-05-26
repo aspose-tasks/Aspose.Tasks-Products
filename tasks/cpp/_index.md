@@ -18,7 +18,228 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API writing, reading, rendering and reporting capabilities." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+    Manipulation
+   </header>
+   <ul>
+    <li>
+     Create &amp; Update Project Files
+    </li>
+    <li>
+     Manage Project Properties
+    </li>
+    <li>
+     Support for Primavera Format
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-check-square-o">
+    </i>
+    Reporting
+   </header>
+   <ul>
+    <li>
+     Resource Cost Overview
+    </li>
+    <li>
+     Resource Overview
+    </li>
+    <li>
+     Cost Overview
+    </li>
+    <li>
+     Work Overview
+    </li>
+    <li>
+     Task Cost Overview
+    </li>
+    <li>
+     Milestones
+    </li>
+    <li>
+     Late Tasks
+    </li>
+    <li>
+     Critical Tasks
+    </li>
+    <li>
+     Upcoming Tasks
+    </li>
+    <li>
+     Slipping Tasks
+    </li>
+    <li>
+     Cost Overruns
+    </li>
+    <li>
+     Over-allocated Resources
+    </li>
+    <li>
+     Best Practice Analyzer
+    </li>
+    <li>
+     Burn Down
+    </li>
+    <li>
+     Cash Flow
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ API for Project Management" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"/>
+  <header>
+   Aspose.Tasks
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Tasks for C++ fully supports C++ applications developed on following platforms having [system requirements](https://docs.aspose.com/tasks/cpp/installation/)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Library for Project Management" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"/>
+  <header>
+   Aspose.Tasks
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="C++ Project Management API [supported formats](https://docs.aspose.com/tasks/cpp/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Project:
+     </b>
+     MPP, MPT, MPX, XML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Primavera:
+     </b>
+     P6 XML, PM XER
+    </li>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLSX, XML
+    </li>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, TIFF, SVG
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ MS Project API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"/>
+  <header>
+   Aspose.Tasks
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

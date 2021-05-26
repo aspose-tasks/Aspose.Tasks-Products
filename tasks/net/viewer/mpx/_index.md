@@ -68,6 +68,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View MPX" sectionDescription="Check our live demos to [View MPX](https://products.aspose.app/tasks/viewer/mpx) with following benefits." >}}
@@ -83,6 +85,9 @@ MPX, Microsoft Exchange File Format, is an ASCII file format for transferring of
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API reading/writing, rendering, and reporting capabilities." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports the .NET framework/.NET Core as well as Mono." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -143,7 +140,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for .NET supports working with project files. It also allows exporting project data to a number of file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports the .NET framework/.NET Core as well as Mono." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -204,6 +201,90 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="Developer APIs for Microsoft Project" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png"/>
+  <header>
+   Aspose.Tasks
+   <small>
+    <em>
+     for
+    </em>
+   </small>
+   .NET
+  </header>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for .NET supports working with project files. It also allows exporting project data to a number of [file formats](https://docs.aspose.com/tasks/net/supported-file-formats/)  ." >}}
+<div class="diagram1 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Project:
+     </b>
+     MPP, MPT, MPX, XML
+    </li>
+    <li>
+     <b>
+      Oracle Primavera:
+     </b>
+     XER, P6 XML, P6 database
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLSX, XML
+    </li>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, TIFF, SVG
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     HTML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C# MS Project API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png"/>
   <header>
    Aspose.Tasks
    <small>

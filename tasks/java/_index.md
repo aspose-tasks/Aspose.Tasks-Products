@@ -18,7 +18,231 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API's reading/writing, rendering, and reporting capabilities." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+    Manipulation
+   </header>
+   <ul>
+    <li>
+     Create &amp; Update Files
+    </li>
+    <li>
+     Manage Project Properties
+    </li>
+    <li>
+     Support for Primavera Format
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-check-square-o">
+    </i>
+    Reporting
+   </header>
+   <ul>
+    <li>
+     Resource Cost Overview
+    </li>
+    <li>
+     Resource Overview
+    </li>
+    <li>
+     Cost Overview
+    </li>
+    <li>
+     Work Overview
+    </li>
+    <li>
+     Task Cost Overview
+    </li>
+    <li>
+     Milestones
+    </li>
+    <li>
+     Late Tasks
+    </li>
+    <li>
+     Critical Tasks
+    </li>
+    <li>
+     Upcoming Tasks
+    </li>
+    <li>
+     Slipping Tasks
+    </li>
+    <li>
+     Cost Overruns
+    </li>
+    <li>
+     Over-allocated Resources
+    </li>
+    <li>
+     Best Practice Analyzer
+    </li>
+    <li>
+     Burn Down
+    </li>
+    <li>
+     Cash Flow
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Project Management API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png"/>
+  <header>
+   Aspose.Tasks
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Tasks for Java support JDK 1.7 and above." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Web Applications
+    </li>
+    <li>
+     Desktop Applications
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Microsoft Project Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png"/>
+  <header>
+   Aspose.Tasks
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for Java support MPP, MPT, MPX as well as many other industry-standard [file formats](https://docs.aspose.com/tasks/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Project:
+     </b>
+     MPP, MPT, MPX, XML
+    </li>
+    <li>
+     <b>
+      Oracle Primavera:
+     </b>
+     XER, P6 XML, P6 database
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLSX, XML
+    </li>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, TIFF, SVG
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     TXT
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     HTML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Microsoft Project API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png"/>
+  <header>
+   Aspose.Tasks
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

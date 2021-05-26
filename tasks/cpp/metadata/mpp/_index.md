@@ -67,6 +67,8 @@ System::Console::WriteLine(System::String(u"Default Cost Accrual: ") + System::O
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of MPP via Online App" sectionDescription="View & edit Metadata to MPP documents by using our [Live Demos](https://products.aspose.app/tasks/metadata) with following benefits." >}}
@@ -82,6 +84,9 @@ A file with MPP extension is Microsoft Project data file that stores information
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
