@@ -5,14 +5,21 @@ url: /cpp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-cpp.png" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-cpp.png" pfName=" Aspose.Tasks for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tasks/cpp/" instalationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>The C++ project management library offers complete tracking capabilities, definition, and planning allowing the developers to create and load tasks as well as remove or assign resources to or from tasks from their own applications.</p>
+<p>
+ Aspose.Tasks for C++ is a native Project Management Library for C++ developers to load, create, manipulate and save Microsoft Project documents to multiple formats without using Microsoft Project or Office Automation. API exposes data for reporting in a number of ways including Gantt Chart, Task Usage, Resource Usage, and Resource Sheet among many others.
+</p>
+
+<p>
+ The C++ project management library offers complete tracking capabilities, definition, and planning allowing the developers to create and load tasks as well as remove or assign resources to or from tasks from their own applications.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -371,12 +378,6 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -402,10 +403,10 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tasks/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" sdkName="Aspose.Tasks for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/tasks/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" sdkName="Aspose.Tasks for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

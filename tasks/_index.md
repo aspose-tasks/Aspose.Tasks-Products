@@ -60,14 +60,28 @@ View an image representation of your Microsoft Project document, from anywhere a
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Tasks." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Tasks." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-I certainly would recommend Aspose.Tasks to anyone requiring read and write access to Microsoft Project files.
+<p class="first">
+ I certainly would recommend Aspose.Tasks to anyone requiring read and write access to Microsoft Project files.
+ <em>
+  Jonathan Tooth | XenTek Limited
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-We decided on Aspose.Tasks for the ease of use, performance in generating the MPP files and the support obtained with Aspose.
+<p class="second">
+ We decided on Aspose.Tasks for the ease of use, performance in generating the MPP files and the support obtained with Aspose.
+ <em>
+  Henrique Ramos | Mega Sistemas Corporativos S/A
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

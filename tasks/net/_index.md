@@ -5,14 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-net.png" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-net.png" pfName=" Aspose.Tasks for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tasks/net/" instalationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Tasks for .NET API showcases data such as tasks, resources, resource assignments, and extended attributes data so that developers can manipulate them. Users can completely plan by creating and reading tasks and resources and assign or remove resources to or from tasks. Users can manipulate constraints, priorities, critical and effort-driven tasks, stop or resume a task and split tasks, manage extended attributes, link tasks and write updated data back to the project.</p>
+<p>
+ Aspose.Tasks for .NET is a reliable project management API to process Microsoft Project files. API supports reading, writing, and manipulating of Microsoft Project documents without any other software dependencies. Moreover, API exposes project data to offer complete planning, definition, and tracking capabilities. The library fully supports various project properties and can be used to manipulate calendars or work schedules.
+</p>
+
+<p>
+ Aspose.Tasks for .NET API showcases data such as tasks, resources, resource assignments, and extended attributes data so that developers can manipulate them. Users can completely plan by creating and reading tasks and resources and assign or remove resources to or from tasks. Users can manipulate constraints, priorities, critical and effort-driven tasks, stop or resume a task and split tasks, manage extended attributes, link tasks and write updated data back to the project.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -557,14 +564,24 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-It was very good to use the Aspose Task component, since we were able to develop our server application for generating MPP files fairly quickly and cheaply.
+<p class="first">
+ It was very good to use the Aspose Task component, since we were able to develop our server application for generating MPP files fairly quickly and cheaply.
+ <em>
+  Henrique Ramos | Mega Sistemas Corporativos, Brazil
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Overall, the implementation went reasonably smoothly. The product appears robust, performs well and once coded was stable.
+<p class="second">
+ Overall, the implementation went reasonably smoothly. The product appears robust, performs well and once coded was stable.
+ <em>
+  Jonathan Tooth | XenTek Limited, UK
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< /blocks/products/pf/testimonials >}}
@@ -593,10 +610,10 @@ Overall, the implementation went reasonably smoothly. The product appears robust
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tasks/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" sdkName="Aspose.Tasks for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/tasks/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" sdkName="Aspose.Tasks for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

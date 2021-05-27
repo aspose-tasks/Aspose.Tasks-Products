@@ -5,14 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-java.png" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-java.png" pfName="Aspose.Tasks for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tasks/java/" instalationsDocsLink="https://docs.aspose.com/tasks/java/installation/" nugetLink="" nugetPackageName="Microsoft Project:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Tasks for Java API exposes the complete document structure to read and write Microsoft Project documents. With this powerful API, developers can control various stages of project management such as planning, tracking and much more.</p>
+<p>
+ Aspose.Tasks for Java is a stable and flexible project management API to manipulate Microsoft Project documents. Developers can define a project’s main and default properties as well as calendar information. They can also specify weekdays and calendar exceptions. API makes it easy to add &amp; recalculate tasks, resources and other data without user intervention.
+</p>
+
+<p>
+ Aspose.Tasks for Java API exposes the complete document structure to read and write Microsoft Project documents. With this powerful API, developers can control various stages of project management such as planning, tracking and much more.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -479,12 +486,6 @@ pjt.save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -510,10 +511,10 @@ pjt.save(dir + "output.jpg", options);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/java" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tasks/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" sdkName="Aspose.Tasks for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/tasks/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" sdkName="Aspose.Tasks for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
