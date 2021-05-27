@@ -2,6 +2,7 @@
 title:  
 weight: 1340
 url: /net/conversion/xml-to-txt/ 
+description: Try our On-Premise APIs with your document on .NET Framework, Mono and COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

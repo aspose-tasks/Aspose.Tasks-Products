@@ -2,6 +2,7 @@
 title: .NET Java and C++ APIs for Project Management & Manipulation 
 weight: 10
 url: /family
+description: Create edit convert print and render Microsoft Project MPP MPT MPX XML files in .NET & Java applications using the relevant library without MS Project installed
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

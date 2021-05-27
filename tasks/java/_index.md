@@ -2,6 +2,7 @@
 title: Java Project API | Microsoft Project Management and Processing 
 weight: 920
 url: /java/ 
+description: Java Microsoft project management library to read and write MPP XML and MPT files. Export data to PDF XLS HTML CSV TXT TIFF SVG & PNG formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

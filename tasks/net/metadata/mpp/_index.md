@@ -2,6 +2,7 @@
 title:  
 weight: 1380
 url: /net/metadata/mpp/ 
+description: Try our On-Premise document metadata viewer or editing APIs to edit or view MPP format metadata on .NET Framework, Mono and COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
