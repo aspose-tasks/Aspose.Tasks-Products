@@ -404,11 +404,5 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="/tasks/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/tasks/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" sdkName="Java" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

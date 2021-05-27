@@ -611,11 +611,5 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="/tasks/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/tasks/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" sdkName="C++" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
