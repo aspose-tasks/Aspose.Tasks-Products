@@ -1,6 +1,6 @@
 ---
 title: Convert XML to HTML via C++ application 
-weight: 350
+weight: 50
 url: /cpp/conversion/xml-to-html/ 
 description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion using C++ Runt
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to HTML Using C++" %}}
 
- In order to convert XML to HTML, weвЂ™ll use
+ In order to convert XML to HTML, we’ll use
  [Aspose.Tasks for C++](https://products.aspose.com/tasks/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.tasks) 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XML to HTML - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert XML to HTML - C++‎" offSpacer="" %}}
 
 ```cs
 // Load the XML.
@@ -88,7 +88,7 @@ pjc->Save(u"convertedFile.html", Aspose::Tasks::Saving::SaveFileFormat::HTML);
 
     {{% blocks/products/pf/agp/content h2="C++ Project Management Library" %}}
 
- Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. вЂЋ
+ Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. ‎
 
 
 

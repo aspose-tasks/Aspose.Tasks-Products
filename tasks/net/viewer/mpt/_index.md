@@ -1,6 +1,6 @@
 ---
 title: View MPT File Formats via .NET 
-weight: 1400
+weight: 430
 url: /net/viewer/mpt/ 
 description: Try our On-Premise APIs to load, render and display MPT documents on .NET Framework, Mono and COM Interop.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display MPT documents o
 
 {{% blocks/products/pf/agp/content h2="How to View MPT File Using C#" %}}
 
- In order to view MPT file, weвЂ™ll use
+ In order to view MPT file, we’ll use
  [Aspose.Tasks for .NET](https://products.aspose.com/tasks/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.tasks) 
@@ -89,7 +89,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Tasks for .NET API" %}}
 
- Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. вЂЋ
+ Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. ‎
 
 
 

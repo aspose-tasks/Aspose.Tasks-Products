@@ -20,7 +20,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" productLink="/tasks/cpp" >}}
-C++ library to read, write and render Microsoft ProjectВ® files without using Microsoft ProjectВ®.
+C++ library to read, write and render Microsoft Project® files without using Microsoft Project®.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

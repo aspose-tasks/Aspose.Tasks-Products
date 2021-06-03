@@ -1,6 +1,6 @@
 ---
 title: C# API for MS Project 
-weight: 1370
+weight: 340
 url: /net/ 
 description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 ---

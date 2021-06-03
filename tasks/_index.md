@@ -1,6 +1,6 @@
 ---
 title: On Premise, Cloud & App Based Solutions for Managing Project Tasks 
-weight: 1430
+weight: 770
 url: /
 description: Build applications to manage Microsoft Project tasks, using On Premise APIs or Cloud-based SDKs. Or use our cross-platform apps to view or convert tasks.
 ---

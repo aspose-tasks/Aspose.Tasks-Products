@@ -1,6 +1,6 @@
 ---
 title: View or Edit MPP Files Metadata via .NET 
-weight: 1380
+weight: 1130
 url: /net/metadata/mpp/ 
 description: Try our On-Premise document metadata viewer or editing APIs to edit or view MPP format metadata on .NET Framework, Mono and COM Interop.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata viewer or editing APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract MPP Metadata Using C#" %}}
 
- In order to extract MPP metadata, weвЂ™ll use
+ In order to extract MPP metadata, we’ll use
  [Aspose.Tasks for .NET](https://products.aspose.com/tasks/net) 
  API which is a feature-rich, powerful and easy to use document metadata API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.tasks) 
@@ -151,7 +151,7 @@ project.Save("WriteMetaData_out.mpp", SaveFileFormat.MPP);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Tasks for .NET API" %}}
 
- Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. вЂЋ
+ Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. ‎
 
 
 

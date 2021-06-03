@@ -1,6 +1,6 @@
 ---
 title: C++ Microsoft Project Documents Parsing Library - Aspose 
-weight: 460
+weight: 970
 url: /cpp/ 
 description: C++ Microsoft Project management library to Read Write Edit MPP MPT and XML files. Export project data to multiple formats
 ---

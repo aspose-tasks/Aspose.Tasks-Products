@@ -1,6 +1,6 @@
 ---
 title: Convert MPX to XLSX via Java 
-weight: 790
+weight: 1260
 url: /java/conversion/mpx-to-xlsx/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert MPX to XLSX Using Java" %}}
 
- In order to render MPX to XLSX, weвЂ™ll use
+ In order to render MPX to XLSX, we’ll use
  [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks) 
@@ -75,7 +75,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert MPX to XLSX - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert MPX to XLSX - Java‎" offSpacer="" %}}
 
 ```cs
 // load the MPX in an object of Project class
@@ -102,7 +102,7 @@ project.save("output.xlsx", SaveFileFormat.XLSX);
 
     {{% blocks/products/pf/agp/content h2="Java Project Management Library" %}}
 
- Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. вЂЋ
+ Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. ‎
 
 
 

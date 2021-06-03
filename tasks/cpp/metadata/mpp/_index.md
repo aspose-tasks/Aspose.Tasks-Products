@@ -1,6 +1,6 @@
 ---
 title: Edit or View MPP Document Metadata via C++ 
-weight: 470
+weight: 1090
 url: /cpp/metadata/mpp/ 
 description: Try our On-Premise document metadata editing or viewer APIs to edit or view MPP file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata editing or viewer APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Get MPP Metadata Using C++" %}}
 
- In order to extract MPP metadata, weвЂ™ll use
+ In order to extract MPP metadata, we’ll use
  [Aspose.Tasks for C++](https://products.aspose.com/tasks/cpp) 
  API which is a feature-rich, powerful and easy to use document metadata extraction API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.tasks) 
@@ -88,7 +88,7 @@ System::Console::WriteLine(System::String(u"Default Cost Accrual: ") + System::O
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Tasks for C++ API" %}}
 
- Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. вЂЋ
+ Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Edit or View MPP Files Metadata via Java 
-weight: 930
+weight: 1220
 url: /java/metadata/mpp/ 
 description: Try our On-Premise document metadata editing or viewer APIs to edit or view MPP format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata editing or viewer APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract MPP Metadata Using Java" %}}
 
- In order to get MPP file metadata, weвЂ™ll use
+ In order to get MPP file metadata, we’ll use
  [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) 
  API which is a feature-rich, powerful and easy to use metadata API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks) 
@@ -176,7 +176,7 @@ project.save("updated.mpp", SaveFileFormat.MPP);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Tasks for Java API" %}}
 
- Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. вЂЋ
+ Aspose.Tasks is a Microsoft Project API to view and convert project documents. One can load, create, modify and render Microsoft Project files to Primavera, Excel, PDF, HTML, images and XML formats. Aspose.Tasks is a standalone API and does not require Microsoft Project or any other software to be installed. ‎
 
 
 
