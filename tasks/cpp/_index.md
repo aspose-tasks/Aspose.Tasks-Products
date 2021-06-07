@@ -6,11 +6,11 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-cpp.png" pfName=" Aspose.Tasks for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-cpp.png" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tasks/cpp/" instalationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/pricing/tasks/cpp" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

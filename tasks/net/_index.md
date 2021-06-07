@@ -6,11 +6,11 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-net.png" pfName=" Aspose.Tasks for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-net.png" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tasks/net/" instalationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/pricing/tasks/net" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

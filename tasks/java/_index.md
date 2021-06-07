@@ -6,11 +6,11 @@ description: Java Microsoft project management library to read and write MPP XML
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-java.png" pfName="Aspose.Tasks for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-java.png" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tasks/java/" instalationsDocsLink="https://docs.aspose.com/tasks/java/installation/" nugetLink="" nugetPackageName="Microsoft Project:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/java" buyLink="https://purchase.aspose.com/pricing/tasks/java" docsLink="https://docs.aspose.com/tasks/java/" installationsDocsLink="https://docs.aspose.com/tasks/java/installation/" nugetLink="" nugetPackageName="Microsoft Project:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks" directDownloadLink="https://downloads.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
