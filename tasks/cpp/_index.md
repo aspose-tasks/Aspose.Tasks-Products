@@ -10,7 +10,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/pricing/tasks/cpp" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/pricing/tasks/cpp" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -106,7 +106,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ API for Project Management" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"/>
+  <img alt="C++ API for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
   <header>
    Aspose.Tasks
   </header>
@@ -146,7 +146,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Library for Project Management" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"/>
+  <img alt="C++ Library for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
   <header>
    Aspose.Tasks
   </header>
@@ -232,7 +232,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ MS Project API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"/>
+  <img alt="C++ MS Project API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
   <header>
    Aspose.Tasks
   </header>

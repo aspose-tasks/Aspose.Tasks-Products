@@ -6,20 +6,20 @@ description: Create edit convert print and render Microsoft Project MPP MPT MPX 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Project File Format APIs" h2="Native APIs for .NET, Java & C++ to create, edit and convert Microsoft Project files." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks.png" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Project File Format APIs" h2="Native APIs for .NET, Java & C++ to create, edit and convert Microsoft Project files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" productLink="/tasks/net" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productLink="/tasks/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" productLink="/tasks/java" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productLink="/tasks/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" productLink="/tasks/cpp" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productLink="/tasks/cpp" >}}
 C++ library to read, write and render Microsoft Project® files without using Microsoft Project®.
 {{< /blocks/products/pf/product >}}
 

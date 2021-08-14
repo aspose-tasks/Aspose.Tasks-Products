@@ -11,15 +11,15 @@ description: Build applications to manage Microsoft Project tasks, using On Prem
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" productLink="https://products.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productLink="https://products.aspose.com/tasks/net" >}}
 Native .NET API for managing Microsoft Project tasks, without installing any software. Define & plan projects, also view & track project progress.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" productLink="https://products.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productLink="https://products.aspose.com/tasks/java" >}}
 Enable Java apps to process Microsoft Project tasks. No software installation required. Add tasks, resources & related project data. Export to other formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" productLink="/tasks/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productLink="/tasks/cpp" >}}
 Create, load, manipulate, or save Microsoft Project formats, tasks, resources and project data within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
