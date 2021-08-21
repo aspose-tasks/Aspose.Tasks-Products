@@ -124,7 +124,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Tasks for C++ fully supports C++ applications developed on following platforms having [system requirements](https://docs.aspose.com/tasks/cpp/installation/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Tasks for C++ fully supports C++ applications developed on following platforms having [system requirements](https://docs.aspose.com/tasks/cpp/installation/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -164,7 +164,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="C++ Project Management API [supported formats](https://docs.aspose.com/tasks/cpp/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="C++ Project Management API [supported formats](https://docs.aspose.com/tasks/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -167,7 +167,7 @@ description: Java Microsoft project management library to read and write MPP XML
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for Java support MPP, MPT, MPX as well as many other industry-standard [file formats](https://docs.aspose.com/tasks/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for Java support MPP, MPT, MPX as well as many other industry-standard [file formats](https://docs.aspose.com/tasks/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

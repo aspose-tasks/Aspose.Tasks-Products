@@ -224,7 +224,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for .NET supports working with project files. It also allows exporting project data to a number of [file formats](https://docs.aspose.com/tasks/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for .NET supports working with project files. It also allows exporting project data to a number of [file formats](https://docs.aspose.com/tasks/net/supported-file-formats/)." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
