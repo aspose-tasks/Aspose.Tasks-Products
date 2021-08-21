@@ -347,7 +347,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export project to graphic formats (PDF, HTML or Image) with highly customizable Gantt Chart
+     Export project to other formats with highly customizable Gantt Chart
     </p>
    </div>
    <div class="col-lg-4">
