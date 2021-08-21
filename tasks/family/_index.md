@@ -19,7 +19,7 @@ Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productLink="/tasks/cpp" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productLink="/tasks/cpp/" >}}
 C++ library to read, write and render Microsoft Project® files without using Microsoft Project®.
 {{< /blocks/products/pf/product >}}
 
