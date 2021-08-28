@@ -6,7 +6,7 @@ description: Build applications to manage Microsoft Project tasks, using On Prem
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Project File Format Solution" h2="Build applications via On Premise or Cloud-based APIs to manage Microsoft Project tasks or use our Apps to view & convert project files." logoImageSrc="https://www.aspose.com/templates/brand/images/tasks/aspose_tasks-brand.png" imageAlt="Aspose.Tasks Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Project File Format Solution" h2="Build applications via On Premise or Cloud-based APIs to manage Microsoft Project tasks or use our Apps to view & convert project files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-brand.svg" imageAlt="Aspose.Tasks Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks On Premise APIs Include" >}}
