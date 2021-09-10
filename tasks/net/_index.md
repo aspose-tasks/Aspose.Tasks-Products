@@ -6,7 +6,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-net.png" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
@@ -611,5 +611,11 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks offers individual APIs for popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" sdkName="C++" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

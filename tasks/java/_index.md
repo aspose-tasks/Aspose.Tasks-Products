@@ -6,7 +6,7 @@ description: Java Microsoft project management library to read and write MPP XML
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-java.png" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-java.svg" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for Java" >}}
 
@@ -512,5 +512,11 @@ pjt.save(dir + "output.jpg", options);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/java" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/java" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks offers individual APIs for popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" sdkName="C++" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

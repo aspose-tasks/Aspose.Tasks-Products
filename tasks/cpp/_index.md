@@ -6,7 +6,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/header/aspose_tasks-for-cpp.png" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
@@ -404,5 +404,11 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks offers individual APIs for popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" sdkName="Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
