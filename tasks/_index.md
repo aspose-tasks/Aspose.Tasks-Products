@@ -11,11 +11,11 @@ description: Build applications to manage Microsoft Project tasks, using On Prem
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productLink="https://products.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productLink="https://products.aspose.com/tasks/net/" >}}
 Native .NET API for managing Microsoft Project tasks, without installing any software. Define & plan projects, also view & track project progress.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productLink="https://products.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productLink="https://products.aspose.com/tasks/java/" >}}
 Enable Java apps to process Microsoft Project tasks. No software installation required. Add tasks, resources & related project data. Export to other formats.
 {{< /blocks/products/pf/product >}}
 
@@ -23,25 +23,25 @@ Enable Java apps to process Microsoft Project tasks. No software installation re
 Create, load, manipulate, or save Microsoft Project formats, tasks, resources and project data within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_tasks-for-curl.png" productLink="https://products.aspose.cloud/tasks/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_tasks-for-curl.png" productLink="https://products.aspose.cloud/tasks/curl/" >}}
 Simply invoke cURL commands to import & process Microsoft Project tasks without downloading any software. Manage various attributes of tasks.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_tasks-for-net.png" productLink="https://products.aspose.cloud/tasks/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_tasks-for-net.png" productLink="https://products.aspose.cloud/tasks/net/" >}}
 Seamlessly integrate Microsoft Project task management functionality into your .NET apps. Import & process attributes, WBS, Calendars, resources etc.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks" title="Cloud SDK for PHP" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_tasks-for-php.png" productLink="https://products.aspose.cloud/tasks/php" >}}
+{{< blocks/products/pf/product pfName="Aspose.Tasks" title="Cloud SDK for PHP" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_tasks-for-php.png" productLink="https://products.aspose.cloud/tasks/php/" >}}
 Enable your PHP apps to work with Microsoft Project files. Manage attributes, hierarchy, time, WBS etc. Apply Monte Carlo simulation.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/tasks/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/tasks/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
