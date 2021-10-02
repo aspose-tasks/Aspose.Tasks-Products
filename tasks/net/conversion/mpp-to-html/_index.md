@@ -2,7 +2,7 @@
 title: Convert MPP to HTML via C# 
 weight: 1010
 url: /net/conversion/mpp-to-html/ 
-description: Sample code for MPP to HTML C# conversion. Use API example code for batch MPP files to HTML conversion within VB.NET, Asp.NET or any .NET based application.
+description: Source code for MPP to HTML C# conversion. Use API example code for batch MPP files to HTML conversion within VB.NET Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
