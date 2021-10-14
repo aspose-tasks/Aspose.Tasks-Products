@@ -13,13 +13,9 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Tasks for .NET is a reliable project management API to process Microsoft Project files. API supports reading, writing, and manipulating of Microsoft Project documents without any other software dependencies. Moreover, API exposes project data to offer complete planning, definition, and tracking capabilities. The library fully supports various project properties and can be used to manipulate calendars or work schedules.
-</p>
+<p>Aspose.Tasks for .NET is a reliable project management API to process Microsoft Project files. API supports reading, writing, and manipulating of Microsoft Project documents without any other software dependencies. Moreover, API exposes project data to offer complete planning, definition, and tracking capabilities. The library fully supports various project properties and can be used to manipulate calendars or work schedules.</p>
 
-<p>
- Aspose.Tasks for .NET API showcases data such as tasks, resources, resource assignments, and extended attributes data so that developers can manipulate them. Users can completely plan by creating and reading tasks and resources and assign or remove resources to or from tasks. Users can manipulate constraints, priorities, critical and effort-driven tasks, stop or resume a task and split tasks, manage extended attributes, link tasks and write updated data back to the project.
-</p>
+<p>Aspose.Tasks for .NET API showcases data such as tasks, resources, resource assignments, and extended attributes data so that developers can manipulate them. Users can completely plan by creating and reading tasks and resources and assign or remove resources to or from tasks. Users can manipulate constraints, priorities, critical and effort-driven tasks, stop or resume a task and split tasks, manage extended attributes, link tasks and write updated data back to the project.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
