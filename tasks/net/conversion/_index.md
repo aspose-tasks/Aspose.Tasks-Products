@@ -1,7 +1,7 @@
 ---
 title: C# Microsoft Project Files Conversion
 url: /net/conversion/
-description: Convert Microsoft Project MPP MPT MPX to PDF HTML Excel and Images JPG PNG BMP TIFF SVG with few lines of C# code via .NET library.
+description: Convert Microsoft Project MPP MPT MPX to PDF HTML Excel and Images JPG PNG BMP TIFF with few lines of C# code via .NET library.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
