@@ -16,7 +16,7 @@ Microsoft Project application is to assist project managers for complete plannin
 
 {{% blocks/products/pf/feature-page-section  h2="Microsoft Project to PDF Conversion" %}}
 
-Microsoft Project to PDF conversion, Process is, Load the Microsoft Project file MPP, MPT or MPX using [Project class](https://apireference.aspose.com/tasks/net/aspose.tasks/project). Call the save method and with output PDF file and [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat).PDF as parameters. Dureing conversion process all the tasks, resources, and resource assignment data will be rendered.
+Microsoft Project to PDF conversion, Process is, Load the Microsoft Project file MPP, MPT or MPX using [Project class](https://apireference.aspose.com/tasks/net/aspose.tasks/project). Call the save method and with output PDF file and [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat).PDF as parameters. During conversion process all the tasks, resources, and resource assignment data will be rendered.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for Microsoft Project to PDF Conversion" %}}
 
