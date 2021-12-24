@@ -6,14 +6,14 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET Microsoft Project File Processing APIs" h2="Create, Read, Write, Manipulate and Export Microsoft Project documents to Primavera, Excel, HTML, PDF, images & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Tasks for .NET is a reliable project management API to process Microsoft Project files. API supports reading, writing, and manipulating of Microsoft Project documents without any other software dependencies. Moreover, API exposes project data to offer complete planning, definition, and tracking capabilities. The library fully supports various project properties and can be used to manipulate calendars or work schedules.</p>
+<p>Aspose.Tasks for .NET is a reliable project management API to process Microsoft Project files. API supports reading, writing, and manipulating of Microsoft Project documents without any other software dependencies. Moreover, API exposes project data to offer complete planning, definition, and tracking capabilities. The library fully supports various project properties and can be used to manipulate calendars or work schedules.</p>
 
 <p>Aspose.Tasks for .NET API showcases data such as tasks, resources, resource assignments, and extended attributes data so that developers can manipulate them. Users can completely plan by creating and reading tasks and resources and assign or remove resources to or from tasks. Users can manipulate constraints, priorities, critical and effort-driven tasks, stop or resume a task and split tasks, manage extended attributes, link tasks and write updated data back to the project.</p>
 
@@ -22,7 +22,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API reading/writing, rendering, and reporting capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API reading/writing, rendering, and reporting capabilities." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -220,7 +220,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for .NET supports working with project files. It also allows exporting project data to a number of [file formats](https://docs.aspose.com/tasks/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Tasks for .NET supports working with project files. It also allows exporting project data to a number of [file formats](https://docs.aspose.com/tasks/net/supported-file-formats/)." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -399,12 +399,12 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Open and Save project files with MS Project Online and MS Project Server
+     Open and Save project files with MS Project Online and MS Project Server
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert Project Data to Multiple Formats
+     Convert Project Data to Multiple Formats
     </h2>
     <p>
      Aspose.Tasks for .NET supports rendering tasks, resources, and resource assignment data to fixed-layout formats as well as XML, HTML and several other popular file formats for easy distribution of information.
@@ -503,10 +503,10 @@ prj.Save(dir + "output.xml", Aspose.Tasks.Saving.SaveFileFormat.XML);</code></pr
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert Project Data to Images
+     Convert Project Data to Images
     </h2>
     <p>
-     Aspose.Tasks for .NET has its own rendering engine specially designed to replicate MS Project render style. This allows the developers to render project data to a number of raster &amp; vector image formats while controlling certain aspects of the resultant image.
+     Aspose.Tasks for .NET has its own rendering engine specially designed to replicate MS Project render style. This allows the developers to render project data to a number of raster &amp; vector image formats while controlling certain aspects of the resultant image.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Words APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

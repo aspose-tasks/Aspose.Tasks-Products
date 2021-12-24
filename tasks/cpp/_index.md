@@ -6,7 +6,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Microsoft Project File Parsing API" h2="Create, Write, Read, Manipulate & Export Microsoft Project files to PDF,  Primavera, HTML, Excel, Images & XML formats from within Native C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
@@ -18,7 +18,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
 </p>
 
 <p>
- The C++ project management library offers complete tracking capabilities, definition, and planning allowing the developers to create and load tasks as well as remove or assign resources to or from tasks from their own applications.
+ The C++ project management library offers complete tracking capabilities, definition, and planning allowing the developers to create and load tasks as well as remove or assign resources to or from tasks from their own applications.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -329,10 +329,10 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Export Microsoft Project Data to Various Formats
+     Export Microsoft Project Data to Various Formats
     </h2>
     <p>
-     Aspose.Tasks for C++ exposes data in both MPP and XML formats as well as PDF, HTML for universal distribution of information, CSV, TXT, XLS, XLSX, WBS to any of the standard images and MPT formats. Furthermore, while exporting data to HTML, it exports the fonts, images and CSS styles to separate files.
+     Aspose.Tasks for C++ exposes data in both MPP and XML formats as well as PDF, HTML for universal distribution of information, CSV, TXT, XLS, XLSX, WBS to any of the standard images and MPT formats. Furthermore, while exporting data to HTML, it exports the fonts, images and CSS styles to separate files.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -349,7 +349,7 @@ pjc-&gt;Save(dataDir + u"output_PrimaveraXER.mpp", Aspose::Tasks::Saving::SaveFi
 pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat::MPX);</code></pre>
     </div>
     <p>
-     API has built-in rendering engine for rendering to the Microsoft Project with the highest of fidelity. Using the project rendering engine, developers can convert project data to various vector and raster images.
+     API has built-in rendering engine for rendering to the Microsoft Project with the highest of fidelity. Using the project rendering engine, developers can convert project data to various vector and raster images.
     </p>
    </div>
    <div class="col-lg-12">
@@ -360,7 +360,7 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
      To speed up the process of setting up a project, API lets users set default, general properties such as metadata, calendar, and currency properties. Default properties include when a new task starts and finishes, the default overtime, standard pay rates and more. API allows to read and set general project properties such as the project's start and end dates, the current date, the status date, the type of calendar used and when a project is scheduled from. Moreover, API also saves summary information including keywords, subject, comments and more.
     </p>
     <p>
-     As for currency properties are concerned, the library supports setting the currency code, numbers after the decimal point and currency symbol so that it is easy to read the costs. Reading and writing the fiscal year and weekday properties are also supported.
+     As for currency properties are concerned, the library supports setting the currency code, numbers after the decimal point and currency symbol so that it is easy to read the costs. Reading and writing the fiscal year and weekday properties are also supported.
     </p>
    </div>
    <div class="col-lg-12">

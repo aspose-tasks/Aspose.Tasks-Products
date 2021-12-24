@@ -6,7 +6,7 @@ description: Java Microsoft project management library to read and write MPP XML
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-java.svg" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft Project File Manipulation APIs" h2="Manipulate or Export Project files to Primavera, Excel, PDF, Images, HTML & XML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-java.svg" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for Java" >}}
 
@@ -398,7 +398,7 @@ description: Java Microsoft project management library to read and write MPP XML
      Export Project Data to Universal Formats
     </h2>
     <p>
-     API support rendering resources, tasks, and resource assignment data to various formats such as JPG, PNG, PDF, XML, XAML, HTML, BMP, XPS, TIFF and SVG. Moreover, exporting data to TXT, CSV, XLSX, XLS and MPT formats is also possible.
+     API support rendering resources, tasks, and resource assignment data to various formats such as JPG, PNG, PDF, XML, XAML, HTML, BMP, XPS, TIFF and SVG. Moreover, exporting data to TXT, CSV, XLSX, XLS and MPT formats is also possible.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -419,7 +419,7 @@ pjt.save(dir + "output.tiff", SaveFileFormat.TIFF);</code></pre>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Managing Tasks in Project</h2>
+<h2 class="h2title">Managing Tasks in Project</h2>
 
 <p>Aspose.Tasks for Java API provides a rich set of classes for handling tasks within a Microsoft Project file. Project plans can range in complexity from a simple flat task list to a large nested group of interdependent tasks. Regardless of the complexity, Aspose.Tasks for Java is capable of dealing with any scenario.</p>
 
