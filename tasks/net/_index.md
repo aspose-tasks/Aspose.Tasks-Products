@@ -128,7 +128,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET API for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
+  <img width="70" height="75" alt=".NET API for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
   <header>
    Aspose.Tasks
    <small>
@@ -204,7 +204,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Developer APIs for Microsoft Project" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
+  <img width="70" height="75" alt="Developer APIs for Microsoft Project" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
   <header>
    Aspose.Tasks
    <small>
@@ -288,7 +288,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C# MS Project API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
+  <img width="70" height="75" alt="C# MS Project API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
   <header>
    Aspose.Tasks
    <small>

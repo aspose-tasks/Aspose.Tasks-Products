@@ -106,7 +106,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ API for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ API for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
   <header>
    Aspose.Tasks
   </header>
@@ -146,7 +146,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Library for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Library for Project Management" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
   <header>
    Aspose.Tasks
   </header>
@@ -232,7 +232,7 @@ description: C++ Microsoft Project management library to Read Write Edit MPP MPT
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ MS Project API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ MS Project API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg"/>
   <header>
    Aspose.Tasks
   </header>

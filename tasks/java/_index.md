@@ -106,7 +106,7 @@ description: Java Microsoft project management library to read and write MPP XML
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Project Management API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg"/>
+  <img width="70" height="75" alt="Java Project Management API" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg"/>
   <header>
    Aspose.Tasks
   </header>
@@ -149,7 +149,7 @@ description: Java Microsoft project management library to read and write MPP XML
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Microsoft Project Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg"/>
+  <img width="70" height="75" alt="Microsoft Project Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg"/>
   <header>
    Aspose.Tasks
   </header>
@@ -235,7 +235,7 @@ description: Java Microsoft project management library to read and write MPP XML
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Microsoft Project API Java" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg"/>
+  <img width="70" height="75" alt="Microsoft Project API Java" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg"/>
   <header>
    Aspose.Tasks
   </header>
