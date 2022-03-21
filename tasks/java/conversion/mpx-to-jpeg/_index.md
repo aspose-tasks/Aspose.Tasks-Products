@@ -80,13 +80,7 @@ description: Sample Java conversion code for MPX format to JPEG file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="MPX to JPEG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPX in an object of Project class
-Project project = new Project("template.mpx");
-// save MPX as JPEG 
-project.save("output.jpeg", SaveFileFormat.JPEG);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpx-to-jpg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

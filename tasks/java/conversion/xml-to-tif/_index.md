@@ -77,15 +77,7 @@ In order to render XML to TIF, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="XML to TIF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XML in an object of Project class
-Project project = new Project("template.xml");
-// save XML as TIF 
-project.save("output.tif", SaveFileFormat.TIF);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-xml-to-tif.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

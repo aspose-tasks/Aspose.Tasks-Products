@@ -80,13 +80,7 @@ description: Sample Java conversion code for MPP format to XER file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="MPP to XER Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPP in an object of Project class
-Project project = new Project("template.mpp");
-// save MPP as XER 
-project.save("output.xer", SaveFileFormat.XER);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpp-to-xer.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

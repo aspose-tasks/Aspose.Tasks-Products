@@ -80,13 +80,7 @@ description: Sample Java conversion code for XML format to JPEG file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="XML to JPEG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XML in an object of Project class
-Project project = new Project("template.xml");
-// save XML as JPEG 
-project.save("output.jpeg", SaveFileFormat.JPEG);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-xml-to-jpg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

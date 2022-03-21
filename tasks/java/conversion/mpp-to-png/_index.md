@@ -80,13 +80,7 @@ description: Sample Java conversion code for MPP format to PNG file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="MPP to PNG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPP in an object of Project class
-Project project = new Project("template.mpp");
-// save MPP as PNG 
-project.save("output.png", SaveFileFormat.PNG);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpp-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

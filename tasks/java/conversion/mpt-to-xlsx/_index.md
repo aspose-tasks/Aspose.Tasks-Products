@@ -80,13 +80,7 @@ description: Sample Java conversion code for MPT format to XLSX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="MPT to XLSX Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPT in an object of Project class
-Project project = new Project("template.mpt");
-// save MPT as XLSX 
-project.save("output.xlsx", SaveFileFormat.XLSX);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpt-to-xlsx.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

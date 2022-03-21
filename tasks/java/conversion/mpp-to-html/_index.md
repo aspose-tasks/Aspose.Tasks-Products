@@ -80,13 +80,7 @@ description: Sample Java conversion code for MPP format to HTML file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="MPP to HTML Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPP in an object of Project class
-Project project = new Project("template.mpp");
-// save MPP as HTML 
-project.save("output.html", SaveFileFormat.HTML);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpp-to-html.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

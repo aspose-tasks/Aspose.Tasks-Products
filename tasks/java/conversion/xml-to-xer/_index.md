@@ -80,13 +80,7 @@ description: Sample Java conversion code for XML format to XER file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="XML to XER Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XML in an object of Project class
-Project project = new Project("template.xml");
-// save XML as XER 
-project.save("output.xer", SaveFileFormat.XER);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-xml-to-xer.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

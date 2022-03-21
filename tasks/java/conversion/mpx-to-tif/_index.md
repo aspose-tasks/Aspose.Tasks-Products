@@ -77,15 +77,7 @@ In order to render MPX to TIF, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="MPX to TIF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPX in an object of Project class
-Project project = new Project("template.mpx");
-// save MPX as TIF 
-project.save("output.tif", SaveFileFormat.TIF);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpx-to-tif.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

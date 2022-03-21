@@ -80,13 +80,7 @@ description: Sample Java conversion code for XML format to TXT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="XML to TXT Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XML in an object of Project class
-Project project = new Project("template.xml");
-// save XML as TXT 
-project.save("output.txt", SaveFileFormat.TXT);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-xml-to-txt.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

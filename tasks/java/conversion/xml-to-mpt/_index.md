@@ -80,13 +80,7 @@ description: Sample Java conversion code for XML format to MPT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="XML to MPT Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XML in an object of Project class
-Project project = new Project("template.xml");
-// save XML as MPT 
-project.save("output.mpt", SaveFileFormat.MPT);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-xml-to-mpt.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

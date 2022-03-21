@@ -80,13 +80,7 @@ description: Sample Java conversion code for MPT format to XER file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="MPT to XER Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the MPT in an object of Project class
-Project project = new Project("template.mpt");
-// save MPT as XER 
-project.save("output.xer", SaveFileFormat.XER);   
-
-```
+{{< gist "aspose-com-gists" "217f0999451404991cca03101961f026" "convert-mpt-to-xer.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
