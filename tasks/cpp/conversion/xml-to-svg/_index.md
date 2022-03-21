@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% blocks/products/pf/agp/code-block title="XML to SVG C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the XML.
-System::SharedPtr<Aspose::Tasks::Project> pjc = System::MakeObject<Aspose::Tasks::Project>(u"sourceFile.XML");
-// Save project in SVG format.
-pjc->Save(u"convertedFile.SVG", Aspose::Tasks::Saving::SaveFileFormat::SVG);
-
-```
+{{< gist "aspose-com-gists" "f5ce1cf56bbd463e4141c1b8330fc2da" "convert-xml-to-svg.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

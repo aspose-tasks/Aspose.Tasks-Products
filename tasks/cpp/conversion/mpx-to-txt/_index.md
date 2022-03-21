@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% blocks/products/pf/agp/code-block title="MPX to TXT C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the MPX.
-System::SharedPtr<Aspose::Tasks::Project> pjc = System::MakeObject<Aspose::Tasks::Project>(u"sourceFile.mpx");
-// Save project in TXT format.
-pjc->Save(u"convertedFile.txt", Aspose::Tasks::Saving::SaveFileFormat::TXT);
-
-```
+{{< gist "aspose-com-gists" "f5ce1cf56bbd463e4141c1b8330fc2da" "convert-mpx-to-txt.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

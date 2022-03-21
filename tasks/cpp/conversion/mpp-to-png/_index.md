@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% blocks/products/pf/agp/code-block title="MPP to PNG C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the MPP.
-System::SharedPtr<Aspose::Tasks::Project> pjc = System::MakeObject<Aspose::Tasks::Project>(u"sourceFile.mpp");
-// Save project in PNG format.
-pjc->Save(u"convertedFile.PNG", Aspose::Tasks::Saving::SaveFileFormat::PNG);
-
-```
+{{< gist "aspose-com-gists" "f5ce1cf56bbd463e4141c1b8330fc2da" "convert-mpp-to-png.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

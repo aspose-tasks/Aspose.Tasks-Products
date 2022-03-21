@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% blocks/products/pf/agp/code-block title="MPP to MPX C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the MPP.
-System::SharedPtr<Aspose::Tasks::Project> pjc = System::MakeObject<Aspose::Tasks::Project>(u"sourceFile.mpp");
-// Save project in MPX format.
-pjc->Save(u"convertedFile.mpx", Aspose::Tasks::Saving::SaveFileFormat::MPX);
-
-```
+{{< gist "aspose-com-gists" "f5ce1cf56bbd463e4141c1b8330fc2da" "convert-mpp-to-mpx.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

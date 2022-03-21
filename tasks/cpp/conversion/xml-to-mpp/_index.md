@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% blocks/products/pf/agp/code-block title="XML to MPP C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the XML.
-System::SharedPtr<Aspose::Tasks::Project> pjc = System::MakeObject<Aspose::Tasks::Project>(u"sourceFile.xml");
-// Save project in MPP format.
-pjc->Save(u"convertedFile.mpp", Aspose::Tasks::Saving::SaveFileFormat::MPP);
-
-```
+{{< gist "aspose-com-gists" "f5ce1cf56bbd463e4141c1b8330fc2da" "convert-xml-to-mpp.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

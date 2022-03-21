@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Tasks.Cpp
 
 {{% blocks/products/pf/agp/code-block title="MPT to SVG C++ Conversion Source Code" offSpacer="" %}}
 
-```cs
-// Load the MPT.
-System::SharedPtr<Aspose::Tasks::Project> pjc = System::MakeObject<Aspose::Tasks::Project>(u"sourceFile.mpt");
-// Save project in SVG format.
-pjc->Save(u"convertedFile.svg", Aspose::Tasks::Saving::SaveFileFormat::SVG);
-
-```
+{{< gist "aspose-com-gists" "f5ce1cf56bbd463e4141c1b8330fc2da" "convert-mpt-to-svg.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
