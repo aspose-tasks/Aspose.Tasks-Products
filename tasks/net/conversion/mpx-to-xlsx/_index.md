@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPX to XLSX C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPX in an object of Project class
-var project = new Project("template.mpx");
-// save MPX as XLSX 
-project.Save("output.xlsx", Saving.SaveFileFormat.XLSX); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpx-to-xlsx.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

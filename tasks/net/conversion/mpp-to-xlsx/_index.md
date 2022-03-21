@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPP to XLSX C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPP in an object of Project class
-var project = new Project("template.mpp");
-// save MPP as XLSX 
-project.Save("output.xlsx", Saving.SaveFileFormat.XLSX); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpp-to-xlsx.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

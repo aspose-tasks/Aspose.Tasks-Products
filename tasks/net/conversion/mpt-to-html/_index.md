@@ -65,15 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPT to HTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPT file to be converted 
-var document = new Project("template.mpt"); 
-// Create Instance of HTML Options 
-var options = new HtmlSaveOptions(); 
-// save MPT as a HTML 
-Saving.SaveFileFormat(document,options,"output.html"); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpt-to-html.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

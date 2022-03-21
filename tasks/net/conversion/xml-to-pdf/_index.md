@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows XML to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the XML in an object of Project class
-var project = new Project("template.xml");
-// save XML as PDF 
-project.Save("output.pdf", Saving.SaveFileFormat.PDF); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-xml-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

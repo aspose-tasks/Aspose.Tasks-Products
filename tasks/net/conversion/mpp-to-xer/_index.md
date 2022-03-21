@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPP to XER C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPP in an object of Project class
-var project = new Project("template.mpp");
-// save MPP as XER 
-project.Save("output.xer", Saving.SaveFileFormat.XER); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpp-to-xer.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

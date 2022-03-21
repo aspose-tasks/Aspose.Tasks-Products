@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPT to MPP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPT in an object of Project class
-var project = new Project("template.mpt");
-// save MPT as MPP 
-project.Save("output.mpp", Saving.SaveFileFormat.MPP); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpt-to-mpp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

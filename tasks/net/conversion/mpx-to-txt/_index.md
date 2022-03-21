@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPX to TXT C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPX in an object of Project class
-var project = new Project("template.mpx");
-// save MPX as TXT 
-project.Save("output.txt", Saving.SaveFileFormat.TXT); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpx-to-txt.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

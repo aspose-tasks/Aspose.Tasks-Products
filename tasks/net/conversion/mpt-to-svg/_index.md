@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Tasks
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPT to SVG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPT in an object of Project class
-var project = new Project("template.mpt");
-// save MPT as SVG 
-project.Save("output.svg", Saving.SaveFileFormat.SVG); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpt-to-svg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

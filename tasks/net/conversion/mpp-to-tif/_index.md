@@ -59,13 +59,7 @@ PM> Install-Package Aspose.TASKS
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPP to TIF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPP in an object of Project class
-var project = new Project("template.mpp");
-// save MPP as TIF 
-project.Save("output.tif", Saving.SaveFileFormat.TIF); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpp-to-tif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

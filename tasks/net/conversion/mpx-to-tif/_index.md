@@ -59,13 +59,7 @@ PM> Install-Package Aspose.TASKS
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MPX to TIF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MPX in an object of Project class
-var project = new Project("template.mpx");
-// save MPX as TIF 
-project.Save("output.tif", Saving.SaveFileFormat.TIF); 
-
-```
+{{< gist "aspose-com-gists" "0484545ed20cb073e4bcf7ce894343f0" "convert-mpx-to-tif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
