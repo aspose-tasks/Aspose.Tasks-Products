@@ -1,7 +1,7 @@
 ---
 title: Convert XML to TIF via C# 
 url: /net/conversion/xml-to-tif/ 
-description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
+description: Sample code for XML to TIF C# conversion. Use API example code for batch XML files to HTML conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
