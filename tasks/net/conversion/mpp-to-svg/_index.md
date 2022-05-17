@@ -1,7 +1,7 @@
 ---
 title: Convert MPP to SVG via C# 
 url: /net/conversion/mpp-to-svg/ 
-description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
+description: Sample code for MPP to SVG C# conversion. Use API example code for batch XML files to HTML conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
