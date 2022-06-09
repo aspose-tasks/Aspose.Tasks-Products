@@ -90,20 +90,6 @@ PM> Install-Package Aspose.Tasks
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MPX" readMoreLink="https://docs.fileformat.com/project-management/mpx/" >}}
-MPX, Microsoft Exchange File Format, is an ASCII file format for transferring of project information between Microsoft Project (MSP) and other applications that support the MPX file format such as Primavera Project Planner, Sciforma and Timerline Precision Estimating. The MPX file format allows you to transfer project information that cannot appear in a table, such as detailed resource assignment information, calendar information, or information in the Project Info dialog box.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="xlsx" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -120,6 +106,12 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-txt" name="MPX TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-xer" name="MPX TO XER" description="XER file format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-xml" name="MPX TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-bmp" name="MPX TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-jira" name="MPX TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-mpx" name="MPX TO MPX" description="Microsoft Project Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-primaveraxml" name="MPX TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-xls" name="MPX TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpx-to-xps" name="MPX TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

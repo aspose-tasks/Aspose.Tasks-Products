@@ -90,20 +90,6 @@ PM> Install-Package Aspose.Tasks
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-XML stands for Extensible Markup Language that is similar to HTML but different in using tags for defining objects. The whole idea behind creation of XML file format was to store and transport data without being dependent on software or hardware tools. Its popularity is due to it being both human as well as machine readable. This enables it to create common data protocols in the form of objects to be stored and shared over network such as World Wide Web (WWW). The "X" in XML is for extensible which implies that the language can be extended to any number of symbols as per user requirements. It is for these features that many standard file formats make use of it such as Microsoft Open XML, LibreOffice OpenDocument, XHTML and SVG.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="mpt" readMoreLink="https://docs.fileformat.com/project-management/mpt/" >}}
-Files with .mpt extension are Microsoft Project template files. These contain basic information and structure along with document settings for creating .MPP files. Such a template file offers default settings such as schedule or budget information for a particular project. It, however, can not save project related data such as tasks, resources or assignments. Once modified, the template files can be saved as standard MPP file for further working with it. Microsoft Project comes with a master template file named "Global.mpt" that is opened when a new template file is to be created. MPT files use application/vnd.ms-project and application/x-project as standard MIME types. MPT files can be opened with Moos Project Viewer, Microsoft Project, and MPXJ programs on Windows, Linux and MacOS platforms.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -120,6 +106,12 @@ Files with .mpt extension are Microsoft Project template files. These contain ba
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-txt" name="XML TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xer" name="XML TO XER" description="XER file format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xlsx" name="XML TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-bmp" name="XML TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-jira" name="XML TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-mpx" name="XML TO MPX" description="Microsoft Project Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-primaveraxml" name="XML TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xls" name="XML TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xps" name="XML TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

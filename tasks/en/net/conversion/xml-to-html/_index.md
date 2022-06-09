@@ -90,27 +90,28 @@ PM> Install-Package Aspose.Tasks
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="" >}}
-{{XML}}
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="" >}}
-{{HTML}}
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XML into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="" name="" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-html" name="XML TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-jpeg" name="XML TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-mpp" name="XML TO MPP" description="Microsoft Project Data File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-mpt" name="XML TO MPT" description="Microsoft Project Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-mpx" name="XML TO MPX" description="Microsoft Exchange File Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-png" name="XML TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-svg" name="XML TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-txt" name="XML TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xer" name="XML TO XER" description="XER file format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xlsx" name="XML TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-bmp" name="XML TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-jira" name="XML TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-mpx" name="XML TO MPX" description="Microsoft Project Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-primaveraxml" name="XML TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xls" name="XML TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xps" name="XML TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

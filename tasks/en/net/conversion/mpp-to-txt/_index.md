@@ -90,20 +90,6 @@ PM> Install-Package Aspose.Tasks
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MPP" readMoreLink="https://docs.fileformat.com/project-management/mpp/" >}}
-A file with MPP extension is Microsoft Project data file that stores information related to project management in an integrated manner. It is proprietary file format developed by Microsoft as file format for Microsoft Project (MSP) which is a project management application software. Besides MPP, MSP supports other file formats as well like project XML schema. Several APIs and applications provide the facility to convert MPP file format to others. Microsoft now has online Project Server where project management files can be uploaded for collaboration by multiple users.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="txt" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}
-A file with .TXT extension represents a text document that contains plain text in the form of lines. Paragraphs in a text document are recognized by carriage returns and are used for better arrangement of file contents. A standard text document can be opened in any text editor or word processing application on different operating systems. All the text contained in such a file is in human-readable format and represented by sequence of characters.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -114,11 +100,18 @@ A file with .TXT extension represents a text document that contains plain text i
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-jpeg" name="MPP TO JPEG" description="JPEG Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-mpt" name="MPP TO MPT" description="Microsoft Project Template Files" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-mpx" name="MPP TO MPX" description="Microsoft Exchange File Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-pdf" name="MPP TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-png" name="MPP TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-txt" name="MPP TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-xer" name="MPP TO XER" description="XER file format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-xlsx" name="MPP TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-xml" name="MPP TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-bmp" name="MPP TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-pdf" name="MPP TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-jira" name="MPP TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-mpp" name="MPP TO MPP" description="Microsoft Project Data File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-primaveraxml" name="MPP TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-xls" name="MPP TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpp-to-xps" name="MPP TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

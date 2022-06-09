@@ -90,20 +90,6 @@ PM> Install-Package Aspose.Tasks
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MPT" readMoreLink="https://docs.fileformat.com/project-management/mpt/" >}}
-Files with .mpt extension are Microsoft Project template files. These contain basic information and structure along with document settings for creating .MPP files. Such a template file offers default settings such as schedule or budget information for a particular project. It, however, can not save project related data such as tasks, resources or assignments. Once modified, the template files can be saved as standard MPP file for further working with it. Microsoft Project comes with a master template file named "Global.mpt" that is opened when a new template file is to be created. MPT files use application/vnd.ms-project and application/x-project as standard MIME types. MPT files can be opened with Moos Project Viewer, Microsoft Project, and MPXJ programs on Windows, Linux and MacOS platforms.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -121,6 +107,12 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-xer" name="MPT TO XER" description="XER file format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-xlsx" name="MPT TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-xml" name="MPT TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-bmp" name="MPT TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-jira" name="MPT TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-mpt" name="MPT TO MPT" description="Microsoft Project Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-primaveraxml" name="MPT TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-xls" name="MPT TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/mpt-to-xps" name="MPT TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

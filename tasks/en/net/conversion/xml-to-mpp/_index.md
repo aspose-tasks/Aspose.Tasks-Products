@@ -90,20 +90,6 @@ PM> Install-Package Aspose.Tasks
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-XML stands for Extensible Markup Language that is similar to HTML but different in using tags for defining objects. The whole idea behind creation of XML file format was to store and transport data without being dependent on software or hardware tools. Its popularity is due to it being both human as well as machine readable. This enables it to create common data protocols in the form of objects to be stored and shared over network such as World Wide Web (WWW). The "X" in XML is for extensible which implies that the language can be extended to any number of symbols as per user requirements. It is for these features that many standard file formats make use of it such as Microsoft Open XML, LibreOffice OpenDocument, XHTML and SVG.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="mpp" readMoreLink="https://docs.fileformat.com/project-management/mpp/" >}}
-A file with MPP extension is Microsoft Project data file that stores information related to project management in an integrated manner. It is proprietary file format developed by Microsoft as file format for Microsoft Project (MSP) which is a project management application software. Besides MPP, MSP supports other file formats as well like project XML schema. Several APIs and applications provide the facility to convert MPP file format to others. Microsoft now has online Project Server where project management files can be uploaded for collaboration by multiple users.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -120,6 +106,12 @@ A file with MPP extension is Microsoft Project data file that stores information
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-txt" name="XML TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xer" name="XML TO XER" description="XER file format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xlsx" name="XML TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-bmp" name="XML TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-jira" name="XML TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-mpx" name="XML TO MPX" description="Microsoft Project Template Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-primaveraxml" name="XML TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xls" name="XML TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/net/conversion/xml-to-xps" name="XML TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
