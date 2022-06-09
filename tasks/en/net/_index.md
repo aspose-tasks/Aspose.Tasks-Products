@@ -364,7 +364,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Define resource assignment &amp; allocation
+     Customize resource assignment's work contour
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,7 +399,7 @@ description: C# library to Open Read Write Edit Convert MPP MPX and XML files.
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Open and Save project files with MS Project Online and MS Project Server
+     Open and Save project files from/to MS Project Online or on-premise instance of MS Project Server via PWA
     </p>
    </div>
    <div class="col-lg-12">
