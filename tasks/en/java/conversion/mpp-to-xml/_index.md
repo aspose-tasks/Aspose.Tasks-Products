@@ -121,6 +121,13 @@ description: Sample Java conversion code for MPP format to XML file. Use this ex
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-pdf" name="MPP TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-jpeg" name="MPP TO JPEG" description="JPEG Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-xer" name="MPP TO XER" description="XER file format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-bmp" name="MPP TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-jira" name="MPP TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-mpp" name="MPP TO MPP" description="Microsoft Project Data File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-primaveraxml" name="MPP TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-xls" name="MPP TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/mpp-to-xps" name="MPP TO XPS" description="XML Paper Specification" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
