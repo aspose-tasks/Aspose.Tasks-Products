@@ -13,7 +13,7 @@ description: Quellcode für die MPT-zu-TIF-C#-Konvertierung. Verwenden Sie den A
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MPT in TIF mit C#" %}}
 
 Um MPT in TIF zu konvertieren, verwenden wir
- [Aspose.Aufgaben für .NET](https://products.aspose.com/tasks/net)
+ [Aspose.Tasks for .NET](https://products.aspose.com/tasks/net)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende API zur Dokumentenbearbeitung und -konvertierung für die C#-Plattform ist. Offen
  [NuGet](https://www.nuget.org/packages/aspose.tasks)
  Paketmanager, suche nach

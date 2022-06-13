@@ -13,7 +13,7 @@ description: Code source pour la conversion MPX en PNG C#. Utilisez le code d'ex
 {{% blocks/products/pf/agp/content h2="Comment convertir MPX en PNG à l'aide de C#" %}}
 
 Pour convertir MPX en PNG, nous utiliserons
- [Aspose.Tasks pour .NET](https://products.aspose.com/tasks/net)
+ [Aspose.Tasks for .NET](https://products.aspose.com/tasks/net)
  API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvert
  [NuGet](https://www.nuget.org/packages/aspose.tasks)
  gestionnaire de paquets, recherchez

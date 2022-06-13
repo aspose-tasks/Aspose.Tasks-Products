@@ -13,7 +13,7 @@ description: Beispiel-C++-Konvertierungscode für das MPT-Dokument in das XLSX-F
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MPT in XLSX mit C++" %}}
 
  Um MPT in XLSX zu konvertieren, verwenden wir
- [Aspose.Aufgaben für C++](https://products.aspose.com/tasks/cpp)
+ [Aspose.Tasks for C++](https://products.aspose.com/tasks/cpp)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende API zur Dokumentenbearbeitung und -konvertierung für die C++-Plattform ist. Sie können die neueste Version direkt herunterladen, einfach öffnen
  [NuGet](https://www.nuget.org/packages/aspose.tasks)
  Paketmanager, suche nach

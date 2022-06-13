@@ -13,7 +13,7 @@ description: Beispiel-C++-Konvertierungscode für das MPP-Dokument in das PDF-Fo
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MPP in PDF mit C++" %}}
 
  Um MPP in PDF zu konvertieren, verwenden wir
- [Aspose.Aufgaben für C++](https://products.aspose.com/tasks/cpp)
+ [Aspose.Tasks for C++](https://products.aspose.com/tasks/cpp)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende API zur Dokumentenbearbeitung und -konvertierung für die C++-Plattform ist. Sie können die neueste Version direkt herunterladen, einfach öffnen
  [NuGet](https://www.nuget.org/packages/aspose.tasks)
  Paketmanager, suche nach

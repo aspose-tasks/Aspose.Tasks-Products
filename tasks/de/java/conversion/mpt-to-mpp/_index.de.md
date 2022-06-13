@@ -13,7 +13,7 @@ description: Beispiel-Java-Konvertierungscode für das MPT-Format in eine MPP-Da
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MPT in MPP mit Java" %}}
 
 Um MPT in MPP zu rendern, verwenden wir
- [Aspose.Aufgaben für Java](https://products.aspose.com/tasks/java)
+ [Aspose.Tasks for Java](https://products.aspose.com/tasks/java)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks)
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.

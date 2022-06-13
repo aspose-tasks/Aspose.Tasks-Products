@@ -13,7 +13,7 @@ description: Exemple de code de conversion C++ pour le document MPP au format MP
 {{% blocks/products/pf/agp/content h2="Comment convertir MPP en MPX en utilisant C++" %}}
 
  Pour convertir MPP en MPX, nous utiliserons
- [Aspose.Tasks pour C++](https://products.aspose.com/tasks/cpp)
+ [Aspose.Tasks for C++](https://products.aspose.com/tasks/cpp)
  API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.tasks)
  gestionnaire de paquets, recherchez

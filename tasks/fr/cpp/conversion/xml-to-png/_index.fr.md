@@ -13,7 +13,7 @@ description: Exemple de code de conversion C++ pour le document XML au format PN
 {{% blocks/products/pf/agp/content h2="Comment convertir XML en PNG en utilisant C++" %}}
 
  Pour convertir XML en PNG, nous utiliserons
- [Aspose.Tasks pour C++](https://products.aspose.com/tasks/cpp)
+ [Aspose.Tasks for C++](https://products.aspose.com/tasks/cpp)
  API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.tasks)
  gestionnaire de paquets, recherchez
