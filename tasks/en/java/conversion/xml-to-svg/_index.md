@@ -121,6 +121,12 @@ description: Sample Java conversion code for XML format to SVG file. Use this ex
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-pdf" name="XML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-jpeg" name="XML TO JPEG" description="JPEG Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-xer" name="XML TO XER" description="XER file format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-bmp" name="XML TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-jira" name="XML TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-xml" name="XML TO XML" description="Microsoft Project Data File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-primaveraxml" name="XML TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-xls" name="XML TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/java/conversion/xml-to-xps" name="XML TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
