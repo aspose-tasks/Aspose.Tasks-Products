@@ -105,24 +105,6 @@ description: Sample Java conversion code for MPT format to XER file. Use this ex
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MPT" readMoreLink="https://docs.fileformat.com/project-management/mpt/" >}}
-
-Files with .mpt extension are Microsoft Project template files. These contain basic information and structure along with document settings for creating .MPP files. Such a template file offers default settings such as schedule or budget information for a particular project. It, however, can not save project related data such as tasks, resources or assignments. Once modified, the template files can be saved as standard MPP file for further working with it. Microsoft Project comes with a master template file named "Global.mpt" that is opened when a new template file is to be created. MPT files use application/vnd.ms-project and application/x-project as standard MIME types. MPT files can be opened with Moos Project Viewer, Microsoft Project, and MPXJ programs on Windows, Linux and MacOS platforms.
-
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XER" readMoreLink="https://docs.fileformat.com/project-management/xer/" >}}
-
-The XER file format is a proprietary project file format used by Primavera P6 project planning and management application. Like MPP file format, this file format stores data related to project planning such as tasks, resources, timelines, and materials. Primavera is developed by Oracle and provides the capability of complete project planning and finds its applications in several practical fields such as oil and gas, construction, manufacturing, etc. It helps project managers plan, schedule, and control large-scale programs and individual projects by integrating with financial management and human capital management systems. A number of software and APIs can read and convert XER file to other popular project file formats such as XML and MPP.
-
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->

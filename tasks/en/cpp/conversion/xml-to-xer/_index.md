@@ -91,24 +91,6 @@ PM> Install-Package Aspose.Tasks.Cpp
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-
-XML stands for Extensible Markup Language that is similar to HTML but different in using tags for defining objects. The whole idea behind creation of XML file format was to store and transport data without being dependent on software or hardware tools. Its popularity is due to it being both human as well as machine readable. This enables it to create common data protocols in the form of objects to be stored and shared over network such as World Wide Web (WWW). The "X" in XML is for extensible which implies that the language can be extended to any number of symbols as per user requirements. It is for these features that many standard file formats make use of it such as Microsoft Open XML, LibreOffice OpenDocument, XHTML and SVG.
-
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XER" readMoreLink="https://docs.fileformat.com/project-management/xer/" >}}
-
-The XER file format is a proprietary project file format used by Primavera P6 project planning and management application. Like MPP file format, this file format stores data related to project planning such as tasks, resources, timelines, and materials. Primavera is developed by Oracle and provides the capability of complete project planning and finds its applications in several practical fields such as oil and gas, construction, manufacturing, etc. It helps project managers plan, schedule, and control large-scale programs and individual projects by integrating with financial management and human capital management systems. A number of software and APIs can read and convert XER file to other popular project file formats such as XML and MPP.
-
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -125,6 +107,12 @@ The XER file format is a proprietary project file format used by Primavera P6 pr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-svg" name="XML TO SVG" description="Scalable Vector Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-txt" name="XML TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-xlsx" name="XML TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-bmp" name="XML TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-jira" name="XML TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-xml" name="XML TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-primaveraxml" name="XML TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-xls" name="XML TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/xml-to-xps" name="XML TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

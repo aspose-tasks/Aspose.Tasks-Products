@@ -86,21 +86,6 @@ Aspose.Tasks is a Microsoft Project API to view and convert project documents. O
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MPT" readMoreLink="https://docs.fileformat.com/project-management/mpt/" >}}
-Files with .mpt extension are Microsoft Project template files. These contain basic information and structure along with document settings for creating .MPP files. Such a template file offers default settings such as schedule or budget information for a particular project. It, however, can not save project related data such as tasks, resources or assignments. Once modified, the template files can be saved as standard MPP file for further working with it. Microsoft Project comes with a master template file named "Global.mpt" that is opened when a new template file is to be created. MPT files use application/vnd.ms-project and application/x-project as standard MIME types. MPT files can be opened with Moos Project Viewer, Microsoft Project, and MPXJ programs on Windows, Linux and MacOS platforms.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
-TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
-
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
@@ -108,6 +93,12 @@ TIFF or TIF, Tagged Image File Format, represents raster images that are meant f
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MPT into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-html" name="MPT TO HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-jpeg" name="MPT TO JPEG" description="JPEG Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-mpp" name="MPT TO MPP" description="Microsoft Project Data File" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-mpx" name="MPT TO MPX" description="Microsoft Exchange File Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-pdf" name="MPT TO PDF" description="Portable Document Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-png" name="MPT TO PNG" description="Portable Network Graphics" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-svg" name="MPT TO SVG" description="Scalable Vector Graphics" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-txt" name="MPT TO TXT" description="Text Document" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-xer" name="MPT TO XER" description="XER file format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-xlsx" name="MPT TO XLSX" description="OOXML Excel File" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-xml" name="MPT TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-bmp" name="MPT TO BMP" description="Bitmap Image File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-jira" name="MPT TO JIRA" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-mpt" name="MPT TO MPT" description="Microsoft Project Data File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-primaveraxml" name="MPT TO PRIMAVERA XML" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-xls" name="MPT TO XLS" description="Microsoft Excel Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/tasks/cpp/conversion/mpt-to-xps" name="MPT TO XPS" description="XML Paper Specifications" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
