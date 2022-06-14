@@ -13,9 +13,9 @@ description: XML形式からXLSXファイルへのサンプルJava変換コー�
 {{% blocks/products/pf/agp/content h2="Javaを使用してXMLをXLSXに変換する方法" %}}
 
 XMLをXLSXにレンダリングするために、
- [Aspose.Tasks for Java]（https://products.aspose.com/tasks/java）
+ [Aspose.Tasks for Java](https://products.aspose.com/tasks/java)
  機能豊富で強力で使いやすいJavaプラットフォーム用の変換APIであるAPI。最新バージョンはから直接ダウンロードできます
- [Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks）
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks)
  次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}

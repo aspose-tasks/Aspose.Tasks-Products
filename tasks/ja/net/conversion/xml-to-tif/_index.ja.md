@@ -13,9 +13,9 @@ description: XMLからTIFC＃への変換のソースコード。 VB.NETAsp.NET�
 {{% blocks/products/pf/agp/content h2="C＃を使用してXMLをTIFに変換する方法" %}}
 
 XMLをTIFに変換するために、
- [Aspose.Tasks for .NET]（https://products.aspose.com/tasks/net）
+ [Aspose.Tasks for .NET](https://products.aspose.com/tasks/net)
  機能が豊富で強力で使いやすいC＃プラットフォーム用のドキュメント操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.tasks）
+ [NuGet](https://www.nuget.org/packages/aspose.tasks)
  パッケージマネージャー、検索
  Aspose.Tasks
  とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。

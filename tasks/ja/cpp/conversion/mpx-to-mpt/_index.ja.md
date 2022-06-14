@@ -13,9 +13,9 @@ description: MPXドキュメントからMPT形式へのサンプルC++変換コ�
 {{% blocks/products/pf/agp/content h2="C++を使用してMPXをMPTに変換する方法" %}}
 
  MPXをMPTに変換するために、
- [Aspose.Tasks for C ++]（https://products.aspose.com/tasks/cpp）
+ [Aspose.Tasks for C ++](https://products.aspose.com/tasks/cpp)
  機能が豊富で強力で使いやすいC++プラットフォーム用のドキュメント操作および変換APIであるAPI。最新バージョンを直接ダウンロードできます。開くだけです。
- [NuGet]（https://www.nuget.org/packages/aspose.tasks）
+ [NuGet](https://www.nuget.org/packages/aspose.tasks)
  パッケージマネージャー、検索
  Aspose.Tasks.Cpp
  とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
@@ -42,8 +42,8 @@ PM> Install-Package Aspose.Tasks.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose :: Tasks ::ProjectObjectを使用してMPXファイルをロードします。
-1. Save（）メソッドを呼び出します。
-1. 出力ファイルパスを（MPT）ファイル拡張子で渡します。
+1. Save（)メソッドを呼び出します。
+1. 出力ファイルパスを（MPT)ファイル拡張子で渡します。
 1. MPTファイルは指定されたパスに保存されます。
 1. 互換性のあるプログラムでMPTファイルを開きます。
 
