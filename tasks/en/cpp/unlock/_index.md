@@ -2,7 +2,7 @@
 title: Unlock MS Project Tasks Files via C++  
 weight: 1130
 url: /cpp/unlock/ 
-description: Source code for unlock MS Project files via C++? Use example code for batch MPP to unlock MPP file within any C++ Application. 
+description: Source code for unlock MS Project files via C++? Use example code for batch MPP to unlock MPP file within any C++ Application 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
