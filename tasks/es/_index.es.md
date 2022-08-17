@@ -23,7 +23,7 @@ Habilite las aplicaciones de Java para procesar tareas de Microsoft Project. No 
 Cree, cargue, manipule o guarde formatos, tareas, recursos y datos de proyectos de Microsoft Project dentro de aplicaciones C++ puras utilizando la biblioteca C++ nativa.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/es/family//" innerText="Ver todas las API de High Code" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/es/family/" innerText="Ver todas las API de High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

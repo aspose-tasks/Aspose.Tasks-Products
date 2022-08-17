@@ -23,7 +23,7 @@ Aktivieren Sie Java-Apps, um Microsoft Project-Aufgaben zu verarbeiten. Keine So
 Erstellen, laden, manipulieren oder speichern Sie Microsoft Project-Formate, Aufgaben, Ressourcen und Projektdaten in reinen C++-Anwendungen mithilfe der nativen C++-Bibliothek.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/de/family//" innerText="Alle High-Code-APIs anzeigen" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/de/family/" innerText="Alle High-Code-APIs anzeigen" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

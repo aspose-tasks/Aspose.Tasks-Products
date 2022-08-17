@@ -23,7 +23,7 @@ Schakel Java-apps in om Microsoft Project-taken te verwerken. Geen software-inst
 Maak, laad, manipuleer of sla Microsoft Project-indelingen, taken, bronnen en projectgegevens op in pure C++-toepassingen met behulp van de native C++-bibliotheek.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/nl/family//" innerText="Bekijk alle High Code API's" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/nl/family/" innerText="Bekijk alle High Code API's" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -23,7 +23,7 @@ description: Создавайте приложения для управлени
 Создавайте, загружайте, манипулируйте или сохраняйте форматы, задачи, ресурсы и данные проекта Microsoft Project в приложениях на чистом C++, используя собственную библиотеку C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ru/family//" innerText="Просмотреть все API High Code" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ru/family/" innerText="Просмотреть все API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -23,7 +23,7 @@ Activez les applications Java pour traiter les tâches Microsoft Project. Aucune
 Créez, chargez, manipulez ou enregistrez des formats, des tâches, des ressources et des données de projet Microsoft Project dans des applications C++ pures à l'aide de la bibliothèque C++ native.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/fr/family//" innerText="Afficher toutes les API High Code" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/fr/family/" innerText="Afficher toutes les API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

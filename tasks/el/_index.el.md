@@ -23,7 +23,7 @@ Native .NET API για τη διαχείριση εργασιών του Microso
 Δημιουργήστε, φορτώστε, χειριστείτε ή αποθηκεύστε μορφές, εργασίες, πόρους και δεδομένα έργου του Microsoft Project σε αμιγείς εφαρμογές C++ χρησιμοποιώντας εγγενή βιβλιοθήκη C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/el/family//" innerText="Προβολή όλων των API High Code" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/el/family/" innerText="Προβολή όλων των API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

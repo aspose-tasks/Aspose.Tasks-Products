@@ -23,7 +23,7 @@ Microsoft Project görevlerini işlemek için Java uygulamalarını etkinleştir
 Yerel C++ kitaplığını kullanarak saf C++ uygulamaları içinde Microsoft Project biçimleri, görevler, kaynaklar ve proje verileri oluşturun, yükleyin, işleyin veya kaydedin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/tr/family//" innerText="Tüm Yüksek Kod API'lerini Görüntüle" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/tr/family/" innerText="Tüm Yüksek Kod API'lerini Görüntüle" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

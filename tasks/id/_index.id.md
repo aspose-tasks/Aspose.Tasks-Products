@@ -23,7 +23,7 @@ Aktifkan aplikasi Java untuk memproses tugas Microsoft Project. Tidak diperlukan
 Buat, muat, manipulasi, atau simpan format, tugas, sumber daya, dan data proyek Microsoft Project dalam aplikasi C++ murni menggunakan pustaka C++ asli.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/id/family//" innerText="Lihat Semua API Kode Tinggi" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/id/family/" innerText="Lihat Semua API Kode Tinggi" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

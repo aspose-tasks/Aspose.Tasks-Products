@@ -23,7 +23,7 @@ Włącz aplikacje Java do przetwarzania zadań Microsoft Project. Nie wymaga ins
 Twórz, ładuj, manipuluj lub zapisuj formaty, zadania, zasoby i dane projektu programu Microsoft Project w czystych aplikacjach C++ przy użyciu natywnej biblioteki C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/pl/family//" innerText="Zobacz wszystkie interfejsy API High Code" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/pl/family/" innerText="Zobacz wszystkie interfejsy API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

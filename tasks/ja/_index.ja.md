@@ -23,7 +23,7 @@ JavaアプリがMicrosoftProjectタスクを処理できるようにします。
 ネイティブC++ライブラリを使用して、純粋なC ++アプリケーション内でMicrosoftProjectの形式、タスク、リソース、およびプロジェクトデータを作成、ロード、操作、または保存します。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ja/family//" innerText="すべてのハイコードAPIを表示" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ja/family/" innerText="すべてのハイコードAPIを表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
