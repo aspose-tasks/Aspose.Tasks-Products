@@ -23,7 +23,7 @@ Native .NET API สำหรับจัดการงาน Microsoft Project 
 สร้าง โหลด จัดการ หรือบันทึกรูปแบบ งาน ทรัพยากร และข้อมูลโครงการของ Microsoft Project ภายในแอปพลิเคชัน C++ แท้โดยใช้ไลบรารี C++ ดั้งเดิม
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/th/family//" innerText="ดู High Code API ทั้งหมด" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/th/family/" innerText="ดู High Code API ทั้งหมด" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -23,7 +23,7 @@ Povolte aplikacím Java zpracovávat úlohy Microsoft Project. Není nutná žá
 Vytvářejte, načtěte, manipulujte nebo ukládejte formáty, úkoly, zdroje a projektová data Microsoft Project v rámci čistě C++ aplikací pomocí nativní knihovny C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/cs/family//" innerText="Zobrazit všechna rozhraní API s vysokým kódem" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/cs/family/" innerText="Zobrazit všechna rozhraní API s vysokým kódem" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

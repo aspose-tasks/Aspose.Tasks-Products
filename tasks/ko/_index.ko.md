@@ -23,7 +23,7 @@ Java 앱이 Microsoft Project 작업을 처리할 수 있도록 합니다. 소�
 네이티브 C++ 라이브러리를 사용하여 순수 C++ 애플리케이션 내에서 Microsoft Project 형식, 작업, 리소스 및 프로젝트 데이터를 생성, 로드, 조작 또는 저장합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ko/family//" innerText="모든 하이 코드 API 보기" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ko/family/" innerText="모든 하이 코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

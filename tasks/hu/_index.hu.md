@@ -23,7 +23,7 @@ Engedélyezze a Java alkalmazásoknak a Microsoft Project feladatok feldolgozás
 Microsoft Project formátumok, feladatok, erőforrások és projektadatok létrehozása, betöltése, manipulálása vagy mentése a tiszta C++ alkalmazásokon belül a natív C++ könyvtár használatával.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/hu/family//" innerText="Az összes High Code API megtekintése" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/hu/family/" innerText="Az összes High Code API megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

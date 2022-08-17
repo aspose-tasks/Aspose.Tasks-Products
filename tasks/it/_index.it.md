@@ -23,7 +23,7 @@ Abilita le app Java per elaborare le attività di Microsoft Project. Nessuna ins
 Crea, carica, manipola o salva formati, attività, risorse e dati di progetto di Microsoft Project all'interno di applicazioni C++ pure utilizzando la libreria C++ nativa.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/it/family//" innerText="Visualizza tutte le API High Code" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/it/family/" innerText="Visualizza tutte le API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

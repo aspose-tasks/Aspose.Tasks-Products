@@ -23,7 +23,7 @@ Bật các ứng dụng Java để xử lý các tác vụ Microsoft Project. Kh
 Tạo, tải, thao tác hoặc lưu các định dạng Microsoft Project, tác vụ, tài nguyên và dữ liệu dự án trong các ứng dụng C ++ thuần túy bằng cách sử dụng thư viện C ++ gốc.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/vi/family//" innerText="Xem tất cả các API mã cao" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/vi/family/" innerText="Xem tất cả các API mã cao" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

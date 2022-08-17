@@ -23,7 +23,7 @@ Aktivera Java-appar för att bearbeta Microsoft Project-uppgifter. Ingen mjukvar
 Skapa, ladda, manipulera eller spara Microsoft Project-format, uppgifter, resurser och projektdata i rena C++-applikationer med inbyggt C++-bibliotek.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/sv/family//" innerText="Visa alla High Code API:er" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/sv/family/" innerText="Visa alla High Code API:er" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

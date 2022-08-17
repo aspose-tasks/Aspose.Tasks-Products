@@ -23,7 +23,7 @@ Native .NET API لإدارة مهام Microsoft Project ، دون تثبيت أ�
 قم بإنشاء أو تحميل أو معالجة أو حفظ تنسيقات Microsoft Project ومهامه وموارده وبيانات المشروع ضمن تطبيقات C ++ الخالصة باستخدام مكتبة C ++ الأصلية.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ar/family//" innerText="عرض جميع واجهات برمجة التطبيقات عالية الكود" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/ar/family/" innerText="عرض جميع واجهات برمجة التطبيقات عالية الكود" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -23,7 +23,7 @@ description: 使用高代码 API 或基于云的 SDK 构建应用程序以管理
 使用原生 C++ 库在纯 C++ 应用程序中创建、加载、操作或保存 Microsoft Project 格式、任务、资源和项目数据。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/zh/family//" innerText="查看所有高代码 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/tasks/zh/family/" innerText="查看所有高代码 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
