@@ -6,11 +6,11 @@ description: Knihovna C# pro otevření Čtení Psaní Úpravy Převod souborů 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Projekt File Processing API" h2="Vytvářejte, čtěte, pište, manipulujte a exportujte dokumenty Microsoft Projekt do formátů Primavera, Excel, HTML, PDF, obrázky a XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Projekt File Processing API" h2="Vytvářejte, čtěte, pište, manipulujte a exportujte dokumenty Microsoft Projekt do formátů Primavera, Excel, HTML, PDF, obrázky a XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks for .NET je spolehlivé API pro správu projektů pro zpracování souborů Microsoft Projekt. API podporuje čtení, zápis a manipulaci s dokumenty Microsoft Projekt bez jakýchkoli dalších závislostí na softwaru. Kromě toho API zpřístupňuje projektová data a nabízí kompletní možnosti plánování, definice a sledování. Knihovna plně podporuje různé vlastnosti projektu a lze ji použít k manipulaci s kalendáři nebo pracovními plány.</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Words API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Words API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks nabízí jednotlivá rozhraní API pro populární vývojová prostředí, jak je uvedeno níže:" >}}
 

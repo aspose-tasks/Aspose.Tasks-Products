@@ -6,11 +6,11 @@ description: C# kitaplığı Aç Okuma Yazma Düzenleme MPP MPX ve XML dosyalar�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft proje Dosya İşleme API'leri" h2="Microsoft proje belgelerini Primavera, Excel, HTML, PDF, resimler ve XML formatlarında oluşturun, okuyun, yazın, işleyin ve dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft proje Dosya İşleme API'leri" h2="Microsoft proje belgelerini Primavera, Excel, HTML, PDF, resimler ve XML formatlarında oluşturun, okuyun, yazın, işleyin ve dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks for .NET, Microsoft proje dosyalarını işlemek için güvenilir bir proje yönetimi API'sidir. API, başka herhangi bir yazılım bağımlılığı olmadan Microsoft proje belgelerinin okunmasını, yazılmasını ve değiştirilmesini destekler. Ayrıca API, eksiksiz planlama, tanımlama ve izleme yetenekleri sunmak için proje verilerini ortaya çıkarır. Kitaplık, çeşitli proje özelliklerini tam olarak destekler ve takvimleri veya çalışma programlarını değiştirmek için kullanılabilir.</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Words API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Words API'leri hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks, popüler geliştirme ortamları için aşağıda listelendiği gibi bireysel API'ler sunar:" >}}
 

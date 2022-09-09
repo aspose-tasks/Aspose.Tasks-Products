@@ -6,7 +6,7 @@ description: MS Project yüklü olmadan ilgili kitaplığı kullanarak .NET ve J
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Proje Dosya Biçimi API'leri" h2="Microsoft Project dosyalarını oluşturmak, düzenlemek ve dönüştürmek için .NET, Java ve C++ için yerel API'ler." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Proje Dosya Biçimi API'leri" h2="Microsoft Project dosyalarını oluşturmak, düzenlemek ve dönüştürmek için .NET, Java ve C++ için yerel API'ler." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks Yüksek Kod API'leri şunları içerir:" >}}
@@ -47,6 +47,6 @@ Microsoft Project® dosyalarını Microsoft Project® kullanmadan okumak, yazmak
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

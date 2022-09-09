@@ -6,7 +6,7 @@ description: 使用未安装 MS Project 的相关库在 .NET 和 Java 应用程�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Project 文件格式 API" h2="用于 .NET、Java 和 C++ 的原生 API，用于创建、编辑和转换 Microsoft Project 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Project 文件格式 API" h2="用于 .NET、Java 和 C++ 的原生 API，用于创建、编辑和转换 Microsoft Project 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks 高代码 API 包括" >}}
@@ -47,6 +47,6 @@ description: 使用未安装 MS Project 的相关库在 .NET 和 Java 应用程�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

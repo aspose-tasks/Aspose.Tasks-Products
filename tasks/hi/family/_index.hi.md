@@ -6,7 +6,7 @@ description: संपादित करें कन्वर्ट प्र�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft प्रोजेक्ट फ़ाइल स्वरूप APIs" h2="Microsoft प्रोजेक्ट फ़ाइलों को बनाने, संपादित करने और कनवर्ट करने के लिए .NET, Java और C++ के लिए नेटिव APIs।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft प्रोजेक्ट फ़ाइल स्वरूप APIs" h2="Microsoft प्रोजेक्ट फ़ाइलों को बनाने, संपादित करने और कनवर्ट करने के लिए .NET, Java और C++ के लिए नेटिव APIs।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks High Code APIs शामिल करें" >}}
@@ -47,6 +47,6 @@ Microsoft Project® का उपयोग किए बिना Microsoft Proj
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

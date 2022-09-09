@@ -6,7 +6,7 @@ description: Tạo chỉnh sửa chuyển đổi in và hiển thị tệp XML M
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API định dạng tệp dự án của Microsoft" h2="Các API gốc cho .NET, Java & C ++ để tạo, chỉnh sửa và chuyển đổi các tệp Microsoft Project." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API định dạng tệp dự án của Microsoft" h2="Các API gốc cho .NET, Java & C ++ để tạo, chỉnh sửa và chuyển đổi các tệp Microsoft Project." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm API mã cao Aspose.Tasks" >}}
@@ -47,6 +47,6 @@ Thư viện C ++ để đọc, ghi và hiển thị các tệp Microsoft Project
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

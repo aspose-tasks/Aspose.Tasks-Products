@@ -61,7 +61,7 @@ Xem bản trình bày bằng hình ảnh của tài liệu Microsoft Project c�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về Aspose.Tasks." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về Aspose.Tasks." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

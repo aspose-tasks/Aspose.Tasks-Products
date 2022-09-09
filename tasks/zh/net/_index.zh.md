@@ -6,11 +6,11 @@ description: C# 库打开读写编辑转换 MPP MPX 和 XML 文件。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft 项目 文件处理 API" h2="创建、读取、写入、操作 Microsoft 项目 文档并将其导出为 Primavera、Excel、HTML、PDF、图像和 XML 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft 项目 文件处理 API" h2="创建、读取、写入、操作 Microsoft 项目 文档并将其导出为 Primavera、Excel、HTML、PDF、图像和 XML 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks for .NET 是一个可靠的项目管理 API，用于处理 Microsoft 项目 文件。 API 支持读取、写入和操作 Microsoft 项目 文档，而无需任何其他软件依赖项。此外，API 公开项目数据以提供完整的计划、定义和跟踪功能。该库完全支持各种项目属性，可用于操作日历或工作计划。</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对 Aspose.Words API 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对 Aspose.Words API 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks 为流行的开发环境提供单独的 API，如下所示：" >}}
 

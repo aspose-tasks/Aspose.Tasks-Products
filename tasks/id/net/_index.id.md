@@ -6,11 +6,11 @@ description: C# library untuk Open Read Write Edit Convert MPP MPX dan file XML.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Proyek File Processing APIs" h2="Buat, Baca, Tulis, Manipulasi, dan Ekspor dokumen Microsoft Proyek ke format Primavera, Excel, HTML, PDF, gambar & XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Proyek File Processing APIs" h2="Buat, Baca, Tulis, Manipulasi, dan Ekspor dokumen Microsoft Proyek ke format Primavera, Excel, HTML, PDF, gambar & XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks for .NET adalah API manajemen proyek yang andal untuk memproses file Microsoft Proyek. API mendukung membaca, menulis, dan memanipulasi dokumen Microsoft Proyek tanpa ketergantungan perangkat lunak lainnya. Selain itu, API memaparkan data proyek untuk menawarkan kemampuan perencanaan, definisi, dan pelacakan yang lengkap. Pustaka sepenuhnya mendukung berbagai properti proyek dan dapat digunakan untuk memanipulasi kalender atau jadwal kerja.</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Words API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Words API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks menawarkan API individual untuk lingkungan pengembangan populer seperti yang tercantum di bawah ini:" >}}
 

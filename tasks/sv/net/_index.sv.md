@@ -6,11 +6,11 @@ description: C#-bibliotek för att öppna Läs Skriv Redigera Konvertera MPP MPX
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Projekt File Processing API:er" h2="Skapa, läs, skriv, manipulera och exportera Microsoft Projekt-dokument till Primavera, Excel, HTML, PDF, bilder och XML-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Projekt File Processing API:er" h2="Skapa, läs, skriv, manipulera och exportera Microsoft Projekt-dokument till Primavera, Excel, HTML, PDF, bilder och XML-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks för .NET är ett pålitligt API för projekthantering för att bearbeta Microsoft Projekt-filer. API stöder läsning, skrivning och manipulering av Microsoft Projekt-dokument utan några andra mjukvaruberoenden. Dessutom exponerar API projektdata för att erbjuda kompletta planering, definition och spårningsmöjligheter. Biblioteket har fullt stöd för olika projektegenskaper och kan användas för att manipulera kalendrar eller arbetsscheman.</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Words API:er." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Words API:er." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks erbjuder individuella API:er för populära utvecklingsmiljöer enligt listan nedan:" >}}
 

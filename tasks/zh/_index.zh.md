@@ -61,7 +61,7 @@ description: 使用高代码 API 或基于云的 SDK 构建应用程序以管理
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。看看用户对 Aspose.Tasks 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。看看用户对 Aspose.Tasks 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

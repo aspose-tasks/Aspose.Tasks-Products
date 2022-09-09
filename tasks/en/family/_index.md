@@ -6,7 +6,7 @@ description: Create edit convert print and render Microsoft Project MPP MPT MPX 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Project File Format APIs" h2="Native APIs for .NET, Java & C++ to create, edit and convert Microsoft Project files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Project File Format APIs" h2="Native APIs for .NET, Java & C++ to create, edit and convert Microsoft Project files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks High Code APIs Include" >}}
@@ -31,6 +31,7 @@ C++ library to read, write and render Microsoft Project® files without using Mi
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tasks/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tasks?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/tasks/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -47,6 +48,6 @@ C++ library to read, write and render Microsoft Project® files without using Mi
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,7 @@ description: Создавайте приложения для управлени
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об Aspose.Tasks." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об Aspose.Tasks." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

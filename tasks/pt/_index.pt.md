@@ -61,7 +61,7 @@ Visualize uma representação de imagem do seu documento do Microsoft Project, d
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas em nossa palavra. Veja o que os usuários têm a dizer sobre Aspose.Tasks." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas em nossa palavra. Veja o que os usuários têm a dizer sobre Aspose.Tasks." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

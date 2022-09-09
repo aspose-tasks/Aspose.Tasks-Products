@@ -61,7 +61,7 @@ Microsoft प्रोजेक्ट फ़ाइलों के साथ क
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Tasks के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Tasks के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

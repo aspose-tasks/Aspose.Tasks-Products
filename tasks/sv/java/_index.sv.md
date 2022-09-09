@@ -6,11 +6,11 @@ description: Java Microsoft projektledningsbibliotek för att läsa och skriva M
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Microsoft Project File Manipulation API:er" h2="Manipulera eller exportera projektfiler till Primavera, Excel, PDF, bilder, HTML och XML-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-java.svg" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Microsoft Project File Manipulation API:er" h2="Manipulera eller exportera projektfiler till Primavera, Excel, PDF, bilder, HTML och XML-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-java.svg" pfName="Aspose.Tasks" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/java/" installationsDocsLink="https://docs.aspose.com/tasks/java/installation/" nugetLink="" nugetPackageName="Microsoft Project:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks" directDownloadLink="https://downloads.aspose.com/tasks/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/java/" installationsDocsLink="https://docs.aspose.com/tasks/java/installation/" nugetLink="" nugetPackageName="Microsoft Project:" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -510,7 +510,7 @@ pjt.save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/java" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/java" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks erbjuder individuella API:er för populära utvecklingsmiljöer enligt listan nedan:" >}}
 
