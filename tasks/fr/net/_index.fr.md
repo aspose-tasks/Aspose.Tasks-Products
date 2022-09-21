@@ -2,15 +2,15 @@
 title: API C# pour MS Projet 
 weight: 340
 url: /fr/net/ 
-description: Bibliothèque C # pour ouvrir lire écrire modifier convertir les fichiers MPP MPX et XML.
+description: Bibliothèque C# pour ouvrir lire écrire modifier convertir les fichiers MPP MPX et XML.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de traitement de fichiers Microsoft Projet .NET" h2="Créez, lisez, écrivez, manipulez et exportez des documents Microsoft Projet aux formats Primavera, Excel, HTML, PDF, images et XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de traitement de fichiers Microsoft Projet .NET" h2="Créez, lisez, écrivez, manipulez et exportez des documents Microsoft Projet aux formats Primavera, Excel, HTML, PDF, images et XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks pour .NET est une API de gestion de projet fiable pour traiter les fichiers Microsoft Projet. L'API prend en charge la lecture, l'écriture et la manipulation de documents Microsoft Projet sans aucune autre dépendance logicielle. De plus, l'API expose les données du projet pour offrir des capacités complètes de planification, de définition et de suivi. La bibliothèque prend entièrement en charge diverses propriétés de projet et peut être utilisée pour manipuler des calendriers ou des horaires de travail.</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Ce que les gens disent" subTitle="Ne vous contentez pas de nous croire sur parole. Découvrez ce que les utilisateurs ont à dire sur les API Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Ce que les gens disent" subTitle="Ne vous contentez pas de nous croire sur parole. Découvrez ce que les utilisateurs ont à dire sur les API Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks propose des API individuelles pour les environnements de développement populaires répertoriés ci-dessous :" >}}
 

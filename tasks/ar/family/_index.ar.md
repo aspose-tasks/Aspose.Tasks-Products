@@ -6,7 +6,7 @@ description: إنشاء تحرير وتحويل طباعة وعرض ملفات M
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Project File Format APIs" h2="واجهات برمجة التطبيقات الأصلية لـ .NET و Java & C ++ لإنشاء ملفات Microsoft Project وتحريرها وتحويلها." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Project File Format APIs" h2="واجهات برمجة التطبيقات الأصلية لـ .NET و Java & C ++ لإنشاء ملفات Microsoft Project وتحريرها وتحويلها." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks عالية كود API تشمل" >}}
@@ -47,6 +47,6 @@ description: إنشاء تحرير وتحويل طباعة وعرض ملفات M
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

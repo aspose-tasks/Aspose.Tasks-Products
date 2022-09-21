@@ -1,16 +1,16 @@
 ---
-title: C # API cho MS Dự định 
+title: C# API cho MS Dự định 
 weight: 340
 url: /vi/net/ 
-description: Thư viện C # để mở Đọc ghi Chỉnh sửa Chuyển đổi tệp MPP MPX và XML.
+description: Thư viện C# để mở Đọc ghi Chỉnh sửa Chuyển đổi tệp MPP MPX và XML.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Các API xử lý tệp dự án của .NET Microsoft" h2="Tạo, Đọc, Viết, Thao tác và Xuất các tài liệu Microsoft Dự định sang các định dạng Primavera, Excel, HTML, PDF, hình ảnh và XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Các API xử lý tệp dự án của .NET Microsoft" h2="Tạo, Đọc, Viết, Thao tác và Xuất các tài liệu Microsoft Dự định sang các định dạng Primavera, Excel, HTML, PDF, hình ảnh và XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks for .NET là một API quản lý dự án đáng tin cậy để xử lý các tệp Microsoft Dự định. API hỗ trợ đọc, viết và thao tác các tài liệu Microsoft Dự định mà không cần bất kỳ phụ thuộc phần mềm nào khác. Hơn nữa, API hiển thị dữ liệu dự án để cung cấp khả năng lập kế hoạch, định nghĩa và theo dõi hoàn chỉnh. Thư viện hỗ trợ đầy đủ các thuộc tính dự án khác nhau và có thể được sử dụng để thao tác trên lịch hoặc lịch làm việc.</p>
@@ -288,7 +288,7 @@ description: Thư viện C # để mở Đọc ghi Chỉnh sửa Chuyển đổi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API dự án C # MS" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
+  <img width="70" height="75" alt="API dự án C# MS" src="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg"/>
   <header>
    Aspose.Tasks
    <small>
@@ -411,7 +411,7 @@ description: Thư viện C # để mở Đọc ghi Chỉnh sửa Chuyển đổi
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Lưu dữ liệu dự án ở các định dạng khác nhau - C #
+      Lưu dữ liệu dự án ở các định dạng khác nhau - C#
      </h3>
      <pre><code class="cs">// tải tệp cần chuyển đổi
 
@@ -510,7 +510,7 @@ prj.Save(dir + "output.xml", Aspose.Tasks.Saving.SaveFileFormat.XML);</code></pr
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Kết xuất dữ liệu dự án sang JPEG - C #
+      Kết xuất dữ liệu dự án sang JPEG - C#
      </h3>
      <pre><code class="cs">// tải tập tin
 
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về các API của Aspose. AdWords." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về các API của Aspose. AdWords." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks cung cấp các API riêng lẻ cho các môi trường phát triển phổ biến như được liệt kê bên dưới:" >}}
 

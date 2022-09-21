@@ -6,11 +6,11 @@ description: Bibliothèque de gestion C++ Microsoft Project pour lire, écrire, 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API d'analyse de fichiers Microsoft Project C++" h2="Créez, écrivez, lisez, manipulez et exportez des fichiers Microsoft Project aux formats PDF, Primavera, HTML, Excel, Images et XML à partir d'applications C++ natives." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API d'analyse de fichiers Microsoft Project C++" h2="Créez, écrivez, lisez, manipulez et exportez des fichiers Microsoft Project aux formats PDF, Primavera, HTML, Excel, Images et XML à partir d'applications C++ natives." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -402,7 +402,7 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks propose des API individuelles pour les environnements de développement populaires répertoriés ci-dessous :" >}}
 

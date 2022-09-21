@@ -6,7 +6,7 @@ description: Maken bewerken converteren printen en renderen Microsoft Project MP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API's voor Microsoft Project-bestandsindelingen" h2="Native API's voor .NET, Java & C++ voor het maken, bewerken en converteren van Microsoft Project-bestanden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API's voor Microsoft Project-bestandsindelingen" h2="Native API's voor .NET, Java & C++ voor het maken, bewerken en converteren van Microsoft Project-bestanden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks High Code API's omvatten:" >}}
@@ -47,6 +47,6 @@ C++-bibliotheek om Microsoft Project®-bestanden te lezen, te schrijven en weer 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

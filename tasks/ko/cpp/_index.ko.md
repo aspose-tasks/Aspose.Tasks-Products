@@ -6,11 +6,11 @@ description: C++ Microsoft 프로젝트 관리 라이브러리 읽기 쓰기 MPP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Microsoft 프로젝트 파일 구문 분석 API" h2="네이티브 C++ 응용 프로그램 내에서 Microsoft Project 파일을 생성, 작성, 읽기, 조작 및 PDF, Primavera, HTML, Excel, 이미지 및 XML 형식으로 내보냅니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Microsoft 프로젝트 파일 구문 분석 API" h2="네이티브 C++ 응용 프로그램 내에서 Microsoft Project 파일을 생성, 작성, 읽기, 조작 및 PDF, Primavera, HTML, Excel, 이미지 및 XML 형식으로 내보냅니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -402,7 +402,7 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks는 아래와 같이 인기 있는 개발 환경을 위한 개별 API를 제공합니다." >}}
 

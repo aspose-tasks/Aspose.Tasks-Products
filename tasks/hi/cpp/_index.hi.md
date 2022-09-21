@@ -6,11 +6,11 @@ description: सी ++ माइक्रोसॉफ्ट प्रोजे�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="सी++ माइक्रोसॉफ्ट प्रोजेक्ट फाइल पार्सिंग एपीआई" h2="माइक्रोसॉफ्ट प्रोजेक्ट फाइलों को पीडीएफ, प्रिमावेरा, एचटीएमएल, एक्सेल, इमेज और एक्सएमएल फॉर्मेट में नेटिव सी ++ एप्लिकेशन के भीतर बनाएं, लिखें, पढ़ें, मैनिपुलेट करें और एक्सपोर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="सी++ माइक्रोसॉफ्ट प्रोजेक्ट फाइल पार्सिंग एपीआई" h2="माइक्रोसॉफ्ट प्रोजेक्ट फाइलों को पीडीएफ, प्रिमावेरा, एचटीएमएल, एक्सेल, इमेज और एक्सएमएल फॉर्मेट में नेटिव सी ++ एप्लिकेशन के भीतर बनाएं, लिखें, पढ़ें, मैनिपुलेट करें और एक्सपोर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-cpp.svg" pfName="Aspose.Tasks" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/cpp/" installationsDocsLink="https://docs.aspose.com/tasks/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" nugetPackageName="Aspose.Tasks.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -402,7 +402,7 @@ pjc-&gt;Save(dataDir + u"output_MPX.xml", Aspose::Tasks::Saving::SaveFileFormat:
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks लोकप्रिय विकास परिवेशों के लिए अलग-अलग API प्रदान करता है जैसा कि नीचे सूचीबद्ध है:" >}}
 

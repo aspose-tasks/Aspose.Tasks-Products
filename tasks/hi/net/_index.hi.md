@@ -6,11 +6,11 @@ description: सी # लाइब्रेरी खोलने के लि�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET माइक्रोसॉफ्ट प्रोजेक्ट फाइल प्रोसेसिंग एपीआई" h2="प्रिमावेरा, एक्सेल, एचटीएमएल, पीडीएफ, छवियों और एक्सएमएल प्रारूपों में माइक्रोसॉफ्ट प्रोजेक्ट दस्तावेज़ बनाएं, पढ़ें, लिखें, हेरफेर करें और निर्यात करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET माइक्रोसॉफ्ट प्रोजेक्ट फाइल प्रोसेसिंग एपीआई" h2="प्रिमावेरा, एक्सेल, एचटीएमएल, पीडीएफ, छवियों और एक्सएमएल प्रारूपों में माइक्रोसॉफ्ट प्रोजेक्ट दस्तावेज़ बनाएं, पढ़ें, लिखें, हेरफेर करें और निर्यात करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Tasks for .NET Microsoft प्रोजेक्ट फ़ाइलों को संसाधित करने के लिए एक विश्वसनीय प्रोजेक्ट प्रबंधन API है। एपीआई किसी भी अन्य सॉफ्टवेयर निर्भरता के बिना माइक्रोसॉफ्ट प्रोजेक्ट दस्तावेजों को पढ़ने, लिखने और हेरफेर करने का समर्थन करता है। इसके अलावा, एपीआई पूरी योजना, परिभाषा और ट्रैकिंग क्षमताओं की पेशकश करने के लिए परियोजना डेटा को उजागर करता है। पुस्तकालय पूरी तरह से विभिन्न परियोजना गुणों का समर्थन करता है और इसका उपयोग कैलेंडर या कार्य शेड्यूल में हेरफेर करने के लिए किया जा सकता है।</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose.Words API के बारे में क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose.Words API के बारे में क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Aspose.Tasks लोकप्रिय विकास परिवेशों के लिए अलग-अलग API प्रदान करता है जैसा कि नीचे सूचीबद्ध है:" >}}
 
