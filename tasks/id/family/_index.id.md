@@ -6,7 +6,7 @@ description: Buat edit, konversi, cetak, dan render file Microsoft Project MPP M
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Format File Proyek Microsoft" h2="API asli untuk .NET, Java & C++ untuk membuat, mengedit, dan mengonversi file Microsoft Project." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Format File Proyek Microsoft" h2="API asli untuk .NET, Java & C++ untuk membuat, mengedit, dan mengonversi file Microsoft Project." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks API Kode Tinggi Termasuk" >}}
@@ -47,6 +47,6 @@ Pustaka C++ untuk membaca, menulis, dan merender file Microsoft Project® tanpa 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

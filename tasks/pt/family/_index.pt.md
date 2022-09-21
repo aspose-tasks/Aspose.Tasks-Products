@@ -6,7 +6,7 @@ description: Criar editar converter imprimir e renderizar arquivos XML MPP MPP M
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de formato de arquivo do Microsoft Project" h2="APIs nativas para .NET, Java e C++ para criar, editar e converter arquivos do Microsoft Project." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs de formato de arquivo do Microsoft Project" h2="APIs nativas para .NET, Java e C++ para criar, editar e converter arquivos do Microsoft Project." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="As APIs de alto código Aspose.Tasks incluem" >}}
@@ -47,6 +47,6 @@ Biblioteca C++ para ler, escrever e renderizar arquivos do Microsoft Project® s
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

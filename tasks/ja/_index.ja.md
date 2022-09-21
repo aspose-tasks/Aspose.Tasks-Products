@@ -61,7 +61,7 @@ Microsoft Projectファイルをドロップまたはアップロードして、
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.Tasksについてユーザーが何を言わなければならないかを確認してください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.Tasksについてユーザーが何を言わなければならないかを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

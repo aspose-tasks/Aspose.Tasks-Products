@@ -61,7 +61,7 @@ Tekintse meg a Microsoft Project dokumentum képét, bárhonnan, bármikor, útk
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Tasks-ról." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Tasks-ról." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

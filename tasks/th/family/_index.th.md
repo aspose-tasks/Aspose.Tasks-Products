@@ -6,7 +6,7 @@ description: สร้างแก้ไข แปลงการพิมพ์
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API รูปแบบไฟล์ของ Microsoft Project" h2="Native APIs สำหรับ .NET, Java และ C++ เพื่อสร้าง แก้ไข และแปลงไฟล์ Microsoft Project" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://releases.aspose.com/tasks" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API รูปแบบไฟล์ของ Microsoft Project" h2="Native APIs สำหรับ .NET, Java และ C++ เพื่อสร้าง แก้ไข และแปลงไฟล์ Microsoft Project" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks.svg" pfName="Aspose.Tasks" downloadUrl="https://downloads.aspose.com/tasks" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks High Code API รวมอยู่ด้วย" >}}
@@ -47,6 +47,6 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

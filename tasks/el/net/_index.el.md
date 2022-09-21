@@ -6,11 +6,11 @@ description: Βιβλιοθήκη C# για Άνοιγμα Ανάγνωσης Ε
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Εργο File Processing API" h2="Δημιουργήστε, διαβάστε, γράψτε, χειριστείτε και εξάγετε έγγραφα του Microsoft Εργο σε μορφές Primavera, Excel, HTML, PDF, εικόνες και XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Εργο File Processing API" h2="Δημιουργήστε, διαβάστε, γράψτε, χειριστείτε και εξάγετε έγγραφα του Microsoft Εργο σε μορφές Primavera, Excel, HTML, PDF, εικόνες και XML." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/headers/aspose_tasks-for-net.svg" pfName="Aspose.Tasks" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="https://repository.aspose.com/tasks/" directDownloadLink="https://releases.aspose.com/tasks/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" liveDemosLink="https://products.aspose.app/tasks/family" PricingLink="https://purchase.aspose.com/pricing/tasks/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tasks/net/" installationsDocsLink="https://docs.aspose.com/tasks/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Tasks/" nugetPackageName="Aspose.Tasks" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tasks/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Το Aspose.Tasks for .NET είναι ένα αξιόπιστο API διαχείρισης έργου για την επεξεργασία αρχείων Microsoft Εργο. Το API υποστηρίζει την ανάγνωση, τη γραφή και τον χειρισμό των εγγράφων του Microsoft Εργο χωρίς άλλες εξαρτήσεις λογισμικού. Επιπλέον, το API εκθέτει τα δεδομένα του έργου για να προσφέρει ολοκληρωμένες δυνατότητες σχεδιασμού, ορισμού και παρακολούθησης. Η βιβλιοθήκη υποστηρίζει πλήρως διάφορες ιδιότητες έργου και μπορεί να χρησιμοποιηθεί για τον χειρισμό ημερολογίων ή χρονοδιαγραμμάτων εργασίας.</p>
@@ -561,7 +561,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API του Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.tasks/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API του Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.tasks/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -605,7 +605,7 @@ prj.Save(dir + "output.jpg", options);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tasks/net" pricingInformationLink="https://purchase.aspose.com/pricing/tasks/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" description="Το Aspose.Tasks προσφέρει μεμονωμένα API για δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
 
