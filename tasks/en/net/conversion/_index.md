@@ -50,7 +50,7 @@ Converting Microsoft Project files MPP, MPT, MPX to image formats is almost same
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="mpp-to-bmp mpp-to-png mpp-to-jpeg mpp-to-tiff mpx-to-bmp mpx-to-png mpx-to-jpeg mpx-to-tiff mpt-to-bmp mpt-to-png mpt-to-jpeg mpt-to-tiff" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Microsoft Project to HTML Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Microsoft Project to HTML Conversion." %}}
 
 Process of conversion of Microsoft Project to HTML is almost same as of PDF, the only difference is SaveFileFormat HTML extension. So Just load the file using Project class and call the save method while passing the relevant output HTML file and SaveFileFormat.HTML as parameters.
 
